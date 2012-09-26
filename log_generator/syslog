@@ -1,0 +1,1007 @@
+Sep 16 10:36:17 skulkrn2 rsyslogd: [origin software="rsyslogd" swVersion="5.8.6" x-pid="2772" x-info="http://www.rsyslog.com"] rsyslogd was HUPed
+Sep 16 10:36:17 skulkrn2 rsyslogd: [origin software="rsyslogd" swVersion="5.8.6" x-pid="2772" x-info="http://www.rsyslog.com"] rsyslogd was HUPed
+Sep 16 10:36:18 skulkrn2 anacron[3485]: Job `cron.daily' terminated
+Sep 16 10:36:18 skulkrn2 anacron[3485]: Normal exit (1 job run)
+Sep 16 10:36:35 skulkrn2 kernel: [  358.655658] ideapad_laptop: Unknown event: 1
+Sep 16 10:36:58 skulkrn2 kernel: [  381.380503] ideapad_laptop: Unknown event: 1
+Sep 16 10:37:21 skulkrn2 kernel: [  404.313548] ideapad_laptop: Unknown event: 1
+Sep 16 10:37:44 skulkrn2 kernel: [  427.143792] ideapad_laptop: Unknown event: 1
+Sep 16 10:38:06 skulkrn2 kernel: [  449.941806] ideapad_laptop: Unknown event: 1
+Sep 16 10:38:29 skulkrn2 kernel: [  472.664945] ideapad_laptop: Unknown event: 1
+Sep 16 10:38:52 skulkrn2 kernel: [  495.560993] ideapad_laptop: Unknown event: 1
+Sep 16 10:39:15 skulkrn2 kernel: [  518.707546] ideapad_laptop: Unknown event: 1
+Sep 16 10:39:38 skulkrn2 kernel: [  541.915692] ideapad_laptop: Unknown event: 1
+Sep 16 10:40:01 skulkrn2 kernel: [  564.846139] ideapad_laptop: Unknown event: 1
+Sep 16 10:40:24 skulkrn2 kernel: [  587.583380] ideapad_laptop: Unknown event: 1
+Sep 16 10:40:47 skulkrn2 kernel: [  610.584435] ideapad_laptop: Unknown event: 1
+Sep 16 10:41:10 skulkrn2 kernel: [  633.657707] ideapad_laptop: Unknown event: 1
+Sep 16 10:41:33 skulkrn2 kernel: [  656.467442] ideapad_laptop: Unknown event: 1
+Sep 16 10:41:56 skulkrn2 kernel: [  679.205543] ideapad_laptop: Unknown event: 1
+Sep 16 10:42:02 skulkrn2 AptDaemon: INFO: Quitting due to inactivity
+Sep 16 10:42:02 skulkrn2 AptDaemon: INFO: Quitting was requested
+Sep 16 10:42:14 skulkrn2 kernel: [  697.453214] xhci_hcd 0000:00:14.0: WARN Event TRB for slot 1 ep 0 with no TDs queued?
+Sep 16 10:42:19 skulkrn2 kernel: [  702.409276] ideapad_laptop: Unknown event: 1
+Sep 16 10:42:42 skulkrn2 kernel: [  725.749396] ideapad_laptop: Unknown event: 1
+Sep 16 10:43:06 skulkrn2 kernel: [  749.180810] ideapad_laptop: Unknown event: 1
+Sep 16 10:43:29 skulkrn2 kernel: [  772.332233] ideapad_laptop: Unknown event: 1
+Sep 16 10:43:52 skulkrn2 kernel: [  795.302203] ideapad_laptop: Unknown event: 1
+Sep 16 10:44:15 skulkrn2 kernel: [  818.121188] ideapad_laptop: Unknown event: 1
+Sep 16 10:45:00 skulkrn2 kernel: [  863.402714] ideapad_laptop: Unknown event: 1
+Sep 16 10:45:24 skulkrn2 kernel: [  886.716829] ideapad_laptop: Unknown event: 1
+Sep 16 10:45:47 skulkrn2 kernel: [  909.839166] ideapad_laptop: Unknown event: 1
+Sep 16 10:46:10 skulkrn2 kernel: [  933.139476] ideapad_laptop: Unknown event: 1
+Sep 16 10:46:33 skulkrn2 kernel: [  956.459836] ideapad_laptop: Unknown event: 1
+Sep 16 10:46:57 skulkrn2 kernel: [  979.645081] ideapad_laptop: Unknown event: 1
+Sep 16 10:47:20 skulkrn2 kernel: [ 1002.685926] ideapad_laptop: Unknown event: 1
+Sep 16 10:47:43 skulkrn2 kernel: [ 1025.675000] ideapad_laptop: Unknown event: 1
+Sep 16 10:48:06 skulkrn2 kernel: [ 1048.986111] ideapad_laptop: Unknown event: 1
+Sep 16 10:48:29 skulkrn2 kernel: [ 1072.029244] ideapad_laptop: Unknown event: 1
+Sep 16 10:48:52 skulkrn2 kernel: [ 1095.051433] ideapad_laptop: Unknown event: 1
+Sep 16 10:49:15 skulkrn2 kernel: [ 1117.911000] ideapad_laptop: Unknown event: 1
+Sep 16 10:49:38 skulkrn2 kernel: [ 1141.067490] ideapad_laptop: Unknown event: 1
+Sep 16 10:50:01 skulkrn2 kernel: [ 1163.880344] ideapad_laptop: Unknown event: 1
+Sep 16 10:50:24 skulkrn2 kernel: [ 1186.606979] ideapad_laptop: Unknown event: 1
+Sep 16 10:50:47 skulkrn2 kernel: [ 1209.339204] ideapad_laptop: Unknown event: 1
+Sep 16 10:51:09 skulkrn2 kernel: [ 1232.074498] ideapad_laptop: Unknown event: 1
+Sep 16 10:51:32 skulkrn2 kernel: [ 1254.800353] ideapad_laptop: Unknown event: 1
+Sep 16 10:51:55 skulkrn2 kernel: [ 1277.538508] ideapad_laptop: Unknown event: 1
+Sep 16 10:52:18 skulkrn2 kernel: [ 1300.416069] ideapad_laptop: Unknown event: 1
+Sep 16 10:52:41 skulkrn2 kernel: [ 1323.151254] ideapad_laptop: Unknown event: 1
+Sep 16 10:53:03 skulkrn2 kernel: [ 1345.885354] ideapad_laptop: Unknown event: 1
+Sep 16 10:53:26 skulkrn2 kernel: [ 1368.625738] ideapad_laptop: Unknown event: 1
+Sep 16 10:53:49 skulkrn2 kernel: [ 1391.365192] ideapad_laptop: Unknown event: 1
+Sep 16 10:54:12 skulkrn2 kernel: [ 1414.107695] ideapad_laptop: Unknown event: 1
+Sep 16 10:54:35 skulkrn2 kernel: [ 1436.998004] ideapad_laptop: Unknown event: 1
+Sep 16 10:54:57 skulkrn2 kernel: [ 1459.732887] ideapad_laptop: Unknown event: 1
+Sep 16 10:55:20 skulkrn2 kernel: [ 1482.559538] ideapad_laptop: Unknown event: 1
+Sep 16 10:55:43 skulkrn2 kernel: [ 1505.295438] ideapad_laptop: Unknown event: 1
+Sep 16 10:56:06 skulkrn2 kernel: [ 1528.230195] ideapad_laptop: Unknown event: 1
+Sep 16 10:56:29 skulkrn2 kernel: [ 1551.101337] ideapad_laptop: Unknown event: 1
+Sep 16 10:56:52 skulkrn2 kernel: [ 1573.848663] ideapad_laptop: Unknown event: 1
+Sep 16 10:57:14 skulkrn2 kernel: [ 1596.600147] ideapad_laptop: Unknown event: 1
+Sep 16 10:57:37 skulkrn2 kernel: [ 1619.342845] ideapad_laptop: Unknown event: 1
+Sep 16 10:58:00 skulkrn2 kernel: [ 1642.097042] ideapad_laptop: Unknown event: 1
+Sep 16 10:58:23 skulkrn2 kernel: [ 1664.840872] ideapad_laptop: Unknown event: 1
+Sep 16 10:58:46 skulkrn2 kernel: [ 1687.582962] ideapad_laptop: Unknown event: 1
+Sep 16 10:59:08 skulkrn2 kernel: [ 1710.322216] ideapad_laptop: Unknown event: 1
+Sep 16 10:59:31 skulkrn2 kernel: [ 1733.057370] ideapad_laptop: Unknown event: 1
+Sep 16 10:59:54 skulkrn2 kernel: [ 1755.801736] ideapad_laptop: Unknown event: 1
+Sep 16 11:00:17 skulkrn2 kernel: [ 1778.548725] ideapad_laptop: Unknown event: 1
+Sep 16 11:00:39 skulkrn2 kernel: [ 1801.294003] ideapad_laptop: Unknown event: 1
+Sep 16 11:01:02 skulkrn2 kernel: [ 1824.105104] ideapad_laptop: Unknown event: 1
+Sep 16 11:01:25 skulkrn2 kernel: [ 1846.926713] ideapad_laptop: Unknown event: 1
+Sep 16 11:01:48 skulkrn2 kernel: [ 1869.681053] ideapad_laptop: Unknown event: 1
+Sep 16 11:02:11 skulkrn2 kernel: [ 1892.463184] ideapad_laptop: Unknown event: 1
+Sep 16 11:02:34 skulkrn2 kernel: [ 1915.763533] ideapad_laptop: Unknown event: 1
+Sep 16 11:02:57 skulkrn2 kernel: [ 1938.501690] ideapad_laptop: Unknown event: 1
+Sep 16 11:03:20 skulkrn2 kernel: [ 1961.240276] ideapad_laptop: Unknown event: 1
+Sep 16 11:03:42 skulkrn2 kernel: [ 1983.974652] ideapad_laptop: Unknown event: 1
+Sep 16 11:04:05 skulkrn2 kernel: [ 2006.714621] ideapad_laptop: Unknown event: 1
+Sep 16 11:04:28 skulkrn2 kernel: [ 2029.787925] ideapad_laptop: Unknown event: 1
+Sep 16 11:04:52 skulkrn2 kernel: [ 2053.161446] ideapad_laptop: Unknown event: 1
+Sep 16 11:05:15 skulkrn2 kernel: [ 2076.060752] ideapad_laptop: Unknown event: 1
+Sep 16 11:05:37 skulkrn2 kernel: [ 2098.786958] ideapad_laptop: Unknown event: 1
+Sep 16 11:06:00 skulkrn2 kernel: [ 2121.521205] ideapad_laptop: Unknown event: 1
+Sep 16 11:06:23 skulkrn2 kernel: [ 2144.260844] ideapad_laptop: Unknown event: 1
+Sep 16 11:06:46 skulkrn2 kernel: [ 2166.996536] ideapad_laptop: Unknown event: 1
+Sep 16 11:07:08 skulkrn2 kernel: [ 2189.726526] ideapad_laptop: Unknown event: 1
+Sep 16 11:07:31 skulkrn2 kernel: [ 2212.723073] ideapad_laptop: Unknown event: 1
+Sep 16 11:07:54 skulkrn2 kernel: [ 2235.454141] ideapad_laptop: Unknown event: 1
+Sep 16 11:08:17 skulkrn2 kernel: [ 2258.231289] ideapad_laptop: Unknown event: 1
+Sep 16 11:08:19 skulkrn2 NetworkManager[2800]: <info> sleep requested (sleeping: no  enabled: yes)
+Sep 16 11:08:19 skulkrn2 NetworkManager[2800]: <info> sleeping or disabling...
+Sep 16 11:08:19 skulkrn2 NetworkManager[2800]: <info> (eth0): now unmanaged
+Sep 16 11:08:19 skulkrn2 NetworkManager[2800]: <info> (eth0): device state change: unavailable -> unmanaged (reason 'sleeping') [20 10 37]
+Sep 16 11:08:19 skulkrn2 NetworkManager[2800]: <info> (eth0): cleaning up...
+Sep 16 11:08:19 skulkrn2 NetworkManager[2800]: <info> (eth0): taking down device.
+Sep 16 11:08:19 skulkrn2 NetworkManager[2800]: <info> (wlan0): now unmanaged
+Sep 16 11:08:19 skulkrn2 NetworkManager[2800]: <info> (wlan0): device state change: activated -> unmanaged (reason 'sleeping') [100 10 37]
+Sep 16 11:08:19 skulkrn2 NetworkManager[2800]: <info> (wlan0): deactivating device (reason 'sleeping') [37]
+Sep 16 11:08:19 skulkrn2 NetworkManager[2800]: <info> (wlan0): canceled DHCP transaction, DHCP client pid 3125
+Sep 16 11:08:19 skulkrn2 avahi-daemon[2858]: Withdrawing address record for fe80::9e4e:36ff:fe4d:f8c8 on wlan0.
+Sep 16 11:08:19 skulkrn2 avahi-daemon[2858]: Leaving mDNS multicast group on interface wlan0.IPv6 with address fe80::9e4e:36ff:fe4d:f8c8.
+Sep 16 11:08:19 skulkrn2 avahi-daemon[2858]: Interface wlan0.IPv6 no longer relevant for mDNS.
+Sep 16 11:08:19 skulkrn2 kernel: [ 2260.668121] wlan0: deauthenticating from ec:1a:59:06:e4:f2 by local choice (reason=3)
+Sep 16 11:08:20 skulkrn2 avahi-daemon[2858]: Withdrawing address record for 192.168.2.3 on wlan0.
+Sep 16 11:08:20 skulkrn2 avahi-daemon[2858]: Leaving mDNS multicast group on interface wlan0.IPv4 with address 192.168.2.3.
+Sep 16 11:08:20 skulkrn2 avahi-daemon[2858]: Interface wlan0.IPv4 no longer relevant for mDNS.
+Sep 16 11:08:20 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-DISCONNECTED bssid=00:00:00:00:00:00 reason=3
+Sep 16 11:08:20 skulkrn2 NetworkManager[2800]: <info> DNS: starting dnsmasq...
+Sep 16 11:08:20 skulkrn2 dnsmasq[3130]: exiting on receipt of SIGTERM
+Sep 16 11:08:20 skulkrn2 NetworkManager[2800]: <info> (wlan0): writing resolv.conf to /sbin/resolvconf
+Sep 16 11:08:20 skulkrn2 kernel: [ 2260.824507] cfg80211: All devices are disconnected, going to restore regulatory settings
+Sep 16 11:08:20 skulkrn2 kernel: [ 2260.824516] cfg80211: Restoring regulatory settings
+Sep 16 11:08:20 skulkrn2 kernel: [ 2260.824541] cfg80211: Calling CRDA to update world regulatory domain
+Sep 16 11:08:20 skulkrn2 dnsmasq[4734]: started, version 2.59 cache disabled
+Sep 16 11:08:20 skulkrn2 dnsmasq[4734]: compile time options: IPv6 GNU-getopt DBus i18n DHCP TFTP conntrack IDN
+Sep 16 11:08:20 skulkrn2 dnsmasq[4734]: warning: no upstream servers configured
+Sep 16 11:08:20 skulkrn2 kernel: [ 2260.831211] cfg80211: Ignoring regulatory request Set by core since the driver uses its own custom regulatory domain
+Sep 16 11:08:20 skulkrn2 kernel: [ 2260.831217] cfg80211: World regulatory domain updated:
+Sep 16 11:08:20 skulkrn2 kernel: [ 2260.831220] cfg80211:     (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp)
+Sep 16 11:08:20 skulkrn2 kernel: [ 2260.831225] cfg80211:     (2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:08:20 skulkrn2 kernel: [ 2260.831230] cfg80211:     (2457000 KHz - 2482000 KHz @ 20000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:08:20 skulkrn2 kernel: [ 2260.831233] cfg80211:     (2474000 KHz - 2494000 KHz @ 20000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:08:20 skulkrn2 kernel: [ 2260.831238] cfg80211:     (5170000 KHz - 5250000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:08:20 skulkrn2 kernel: [ 2260.831246] cfg80211:     (5735000 KHz - 5835000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:08:20 skulkrn2 NetworkManager[2800]: <info> (wlan0): cleaning up...
+Sep 16 11:08:20 skulkrn2 NetworkManager[2800]: <info> (wlan0): taking down device.
+Sep 16 11:08:20 skulkrn2 dbus[2777]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+Sep 16 11:08:20 skulkrn2 dbus[2777]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Sep 16 11:08:20 skulkrn2 anacron[4854]: Anacron 2.3 started on 2012-09-16
+Sep 16 11:08:20 skulkrn2 anacron[4854]: Normal exit (0 jobs run)
+Sep 16 11:08:22 skulkrn2 kernel: [ 2262.795907] PM: Syncing filesystems ... done.
+Sep 16 11:08:22 skulkrn2 kernel: [ 2262.796750] PM: Preparing system for mem sleep
+Sep 16 11:19:38 skulkrn2 kernel: [ 2263.396275] Freezing user space processes ... (elapsed 0.01 seconds) done.
+Sep 16 11:19:38 skulkrn2 kernel: [ 2263.412143] Freezing remaining freezable tasks ... (elapsed 0.01 seconds) done.
+Sep 16 11:19:38 skulkrn2 kernel: [ 2263.428128] PM: Entering mem sleep
+Sep 16 11:19:38 skulkrn2 kernel: [ 2263.428173] Suspending console(s) (use no_console_suspend to debug)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2263.428680] sd 0:0:0:0: [sda] Synchronizing SCSI cache
+Sep 16 11:19:38 skulkrn2 kernel: [ 2263.428744] sd 0:0:0:0: [sda] Stopping disk
+Sep 16 11:19:38 skulkrn2 kernel: [ 2263.495978] ehci_hcd 0000:00:1a.0: PCI INT A disabled
+Sep 16 11:19:38 skulkrn2 kernel: [ 2263.535908] ehci_hcd 0000:00:1d.0: PCI INT A disabled
+Sep 16 11:19:38 skulkrn2 kernel: [ 2263.687731] snd_hda_intel 0000:00:1b.0: PCI INT A disabled
+Sep 16 11:19:38 skulkrn2 kernel: [ 2263.703629] PM: suspend of drv:snd_hda_intel dev:0000:00:1b.0 complete after 222.071 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.403630] PM: suspend of drv:sd dev:0:0:0:0 complete after 976.397 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.403686] PM: suspend of drv:scsi dev:target0:0:0 complete after 976.380 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.403698] PM: suspend of drv:scsi dev:host0 complete after 923.551 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.418567] PM: suspend of drv:ahci dev:0000:00:1f.2 complete after 938.256 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.418606] PM: suspend of drv: dev:pci0000:00 complete after 937.744 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.418628] PM: suspend of devices complete after 991.851 msecs
+Sep 16 11:19:38 skulkrn2 bluetoothd[2792]: HCI dev 0 down
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.418630] PM: suspend devices took 0.992 seconds
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.434651] r8169 0000:02:00.0: PME# enabled
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.434660] r8169 0000:02:00.0: wake-up capability enabled by ACPI
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.450635] ehci_hcd 0000:00:1d.0: PME# enabled
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.450681] ehci_hcd 0000:00:1d.0: wake-up capability enabled by ACPI
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.466567] ehci_hcd 0000:00:1a.0: PME# enabled
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.466601] ehci_hcd 0000:00:1a.0: wake-up capability enabled by ACPI
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.498507] xhci_hcd 0000:00:14.0: PME# enabled
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.498517] xhci_hcd 0000:00:14.0: wake-up capability enabled by ACPI
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.514474] PM: late suspend of devices complete after 95.982 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.514678] ACPI: Preparing to enter system sleep state S3
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.574412] PM: Saving platform NVS memory
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.574944] Disabling non-boot CPUs ...
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.678172] CPU 1 is now offline
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.782009] CPU 2 is now offline
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.783109] Broke affinity for irq 1
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.885857] CPU 3 is now offline
+Sep 16 11:19:38 skulkrn2 kernel: [ 2264.989700] CPU 4 is now offline
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.093555] CPU 5 is now offline
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.197396] CPU 6 is now offline
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.198228] Broke affinity for irq 41
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.301240] CPU 7 is now offline
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.301561] Extended CMOS year: 2000
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.301848] ACPI: Low-level resume complete
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.301889] PM: Restoring platform NVS memory
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.302266] Extended CMOS year: 2000
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.302305] Enabling non-boot CPUs ...
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.302408] Booting Node 0 Processor 1 APIC 0x1
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.302410] smpboot cpu 1: start_ip = 99000
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.312801] Initializing CPU#1
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.313495] Calibrating delay loop (skipped) already calibrated this CPU
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.334694] NMI watchdog enabled, takes one hw-pmu counter.
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.334956] CPU1 is up
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.335041] Booting Node 0 Processor 2 APIC 0x2
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.335042] smpboot cpu 2: start_ip = 99000
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.345357] Initializing CPU#2
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.346051] Calibrating delay loop (skipped) already calibrated this CPU
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.367349] NMI watchdog enabled, takes one hw-pmu counter.
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.367596] CPU2 is up
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.367685] Booting Node 0 Processor 3 APIC 0x3
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.367686] smpboot cpu 3: start_ip = 99000
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.377991] Initializing CPU#3
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.378697] Calibrating delay loop (skipped) already calibrated this CPU
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.400021] NMI watchdog enabled, takes one hw-pmu counter.
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.400418] CPU3 is up
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.400712] Booting Node 0 Processor 4 APIC 0x4
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.400714] smpboot cpu 4: start_ip = 99000
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.411015] Initializing CPU#4
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.411723] Calibrating delay loop (skipped) already calibrated this CPU
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.433054] NMI watchdog enabled, takes one hw-pmu counter.
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.433379] CPU4 is up
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.433501] Booting Node 0 Processor 5 APIC 0x5
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.433503] smpboot cpu 5: start_ip = 99000
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.443804] Initializing CPU#5
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.444510] Calibrating delay loop (skipped) already calibrated this CPU
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.465940] NMI watchdog enabled, takes one hw-pmu counter.
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.466321] CPU5 is up
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.466570] Booting Node 0 Processor 6 APIC 0x6
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.466573] smpboot cpu 6: start_ip = 99000
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.476861] Initializing CPU#6
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.477581] Calibrating delay loop (skipped) already calibrated this CPU
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.498972] NMI watchdog enabled, takes one hw-pmu counter.
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.499293] CPU6 is up
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.499499] Booting Node 0 Processor 7 APIC 0x7
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.499501] smpboot cpu 7: start_ip = 99000
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.509791] Initializing CPU#7
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.510509] Calibrating delay loop (skipped) already calibrated this CPU
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.532013] NMI watchdog enabled, takes one hw-pmu counter.
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.532352] CPU7 is up
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.540925] ACPI: Waking up from system sleep state S3
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689537] i915 0000:00:02.0: restoring config space at offset 0xf (was 0x100, writing 0x10b)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689547] i915 0000:00:02.0: restoring config space at offset 0x1 (was 0x900007, writing 0x900407)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689567] xhci_hcd 0000:00:14.0: restoring config space at offset 0xf (was 0x100, writing 0x10b)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689583] xhci_hcd 0000:00:14.0: restoring config space at offset 0x4 (was 0x4, writing 0xf0600004)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689590] xhci_hcd 0000:00:14.0: restoring config space at offset 0x1 (was 0x2900000, writing 0x2900402)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689617] xhci_hcd 0000:00:14.0: wake-up capability disabled by ACPI
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689622] xhci_hcd 0000:00:14.0: PME# disabled
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689633] mei 0000:00:16.0: restoring config space at offset 0xf (was 0x100, writing 0x10b)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689647] mei 0000:00:16.0: restoring config space at offset 0x4 (was 0xfed0a004, writing 0xf0615004)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689674] ehci_hcd 0000:00:1a.0: restoring config space at offset 0xf (was 0x100, writing 0x10b)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689690] ehci_hcd 0000:00:1a.0: restoring config space at offset 0x4 (was 0x0, writing 0xf0619000)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689697] ehci_hcd 0000:00:1a.0: restoring config space at offset 0x1 (was 0x2900000, writing 0x2900002)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689728] ehci_hcd 0000:00:1a.0: wake-up capability disabled by ACPI
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689732] ehci_hcd 0000:00:1a.0: PME# disabled
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689747] snd_hda_intel 0000:00:1b.0: restoring config space at offset 0xf (was 0x100, writing 0x10a)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689762] snd_hda_intel 0000:00:1b.0: restoring config space at offset 0x4 (was 0x4, writing 0xf0610004)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689766] snd_hda_intel 0000:00:1b.0: restoring config space at offset 0x3 (was 0x0, writing 0x10)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689772] snd_hda_intel 0000:00:1b.0: restoring config space at offset 0x1 (was 0x100000, writing 0x100002)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689800] pcieport 0000:00:1c.0: restoring config space at offset 0xf (was 0x100, writing 0x10b)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689810] pcieport 0000:00:1c.0: restoring config space at offset 0x9 (was 0x10001, writing 0x1fff1)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689815] pcieport 0000:00:1c.0: restoring config space at offset 0x8 (was 0x0, writing 0xfff0)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689820] pcieport 0000:00:1c.0: restoring config space at offset 0x7 (was 0x20000000, writing 0x200000f0)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689828] pcieport 0000:00:1c.0: restoring config space at offset 0x3 (was 0x810000, writing 0x810010)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689834] pcieport 0000:00:1c.0: restoring config space at offset 0x1 (was 0x100000, writing 0x100007)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689868] pcieport 0000:00:1c.1: restoring config space at offset 0xf (was 0x200, writing 0x20a)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689878] pcieport 0000:00:1c.1: restoring config space at offset 0x9 (was 0x10001, writing 0xf041f041)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689883] pcieport 0000:00:1c.1: restoring config space at offset 0x8 (was 0x0, writing 0xfff0)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689887] pcieport 0000:00:1c.1: restoring config space at offset 0x7 (was 0x0, writing 0x2020)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689895] pcieport 0000:00:1c.1: restoring config space at offset 0x3 (was 0x810000, writing 0x810010)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689901] pcieport 0000:00:1c.1: restoring config space at offset 0x1 (was 0x100000, writing 0x100007)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689933] pcieport 0000:00:1c.2: restoring config space at offset 0xf (was 0x300, writing 0x307)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689943] pcieport 0000:00:1c.2: restoring config space at offset 0x9 (was 0x10001, writing 0x1fff1)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689948] pcieport 0000:00:1c.2: restoring config space at offset 0x8 (was 0x0, writing 0xf050f050)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689952] pcieport 0000:00:1c.2: restoring config space at offset 0x7 (was 0x0, writing 0x200000f0)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689960] pcieport 0000:00:1c.2: restoring config space at offset 0x3 (was 0x810000, writing 0x810010)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689966] pcieport 0000:00:1c.2: restoring config space at offset 0x1 (was 0x100000, writing 0x100007)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.689995] ehci_hcd 0000:00:1d.0: restoring config space at offset 0xf (was 0x100, writing 0x10b)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690011] ehci_hcd 0000:00:1d.0: restoring config space at offset 0x4 (was 0x0, writing 0xf0618000)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690018] ehci_hcd 0000:00:1d.0: restoring config space at offset 0x1 (was 0x2900000, writing 0x2900002)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690042] ehci_hcd 0000:00:1d.0: wake-up capability disabled by ACPI
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690047] ehci_hcd 0000:00:1d.0: PME# disabled
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690108] ahci 0000:00:1f.2: restoring config space at offset 0x1 (was 0x2b00403, writing 0x2b00407)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690183] r8169 0000:02:00.0: restoring config space at offset 0xf (was 0x1ff, writing 0x10a)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690200] r8169 0000:02:00.0: restoring config space at offset 0x8 (was 0xc, writing 0xf040000c)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690208] r8169 0000:02:00.0: restoring config space at offset 0x6 (was 0xc, writing 0xf040400c)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690215] r8169 0000:02:00.0: restoring config space at offset 0x4 (was 0x1, writing 0x2001)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690221] r8169 0000:02:00.0: restoring config space at offset 0x3 (was 0x0, writing 0x10)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690229] r8169 0000:02:00.0: restoring config space at offset 0x1 (was 0x100000, writing 0x100407)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690339] iwlwifi 0000:03:00.0: restoring config space at offset 0xf (was 0x100, writing 0x107)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690380] iwlwifi 0000:03:00.0: restoring config space at offset 0x4 (was 0x4, writing 0xf0500004)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690388] iwlwifi 0000:03:00.0: restoring config space at offset 0x3 (was 0x0, writing 0x10)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690400] iwlwifi 0000:03:00.0: restoring config space at offset 0x1 (was 0x100000, writing 0x100006)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690550] PM: early resume of devices complete after 1.057 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690628] i915 0000:00:02.0: setting latency timer to 64
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690663] xhci_hcd 0000:00:14.0: setting latency timer to 64
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690695] ehci_hcd 0000:00:1a.0: PCI INT A -> GSI 16 (level, low) -> IRQ 16
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690702] ehci_hcd 0000:00:1a.0: setting latency timer to 64
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690718] mei 0000:00:16.0: irq 43 for MSI/MSI-X
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690723] snd_hda_intel 0000:00:1b.0: PCI INT A -> GSI 22 (level, low) -> IRQ 22
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690727] ehci_hcd 0000:00:1d.0: PCI INT A -> GSI 23 (level, low) -> IRQ 23
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690737] snd_hda_intel 0000:00:1b.0: setting latency timer to 64
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690739] ahci 0000:00:1f.2: setting latency timer to 64
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690741] ehci_hcd 0000:00:1d.0: setting latency timer to 64
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690753] r8169 0000:02:00.0: wake-up capability disabled by ACPI
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690792] r8169 0000:02:00.0: PME# disabled
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.690838] snd_hda_intel 0000:00:1b.0: irq 46 for MSI/MSI-X
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.691357] sd 0:0:0:0: [sda] Starting disk
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.809154] PM: resume of drv:hub dev:3-0:1.0 complete after 118.446 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.809179] PM: resume of drv: dev:ep_00 complete after 118.456 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.809194] PM: resume of drv: dev:ep_81 complete after 118.477 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.869092] PM: resume of drv: dev:ep_00 complete after 177.671 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.869138] PM: resume of drv:hub dev:1-1:1.0 complete after 177.797 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.869169] PM: resume of drv: dev:ep_81 complete after 177.769 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.877995] PM: resume of drv:r8169 dev:0000:02:00.0 complete after 187.524 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2265.921257] usb 3-3: reset high-speed USB device number 2 using xhci_hcd
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.013106] usb 1-1.3: reset high-speed USB device number 3 using ehci_hcd
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.016894] ata3: SATA link up 1.5 Gbps (SStatus 113 SControl 300)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.024188] xhci_hcd 0000:00:14.0: xHCI xhci_drop_endpoint called with disabled ep f6fb5600
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.053859] ata3.00: configured for UDMA/100
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.094152] PM: resume of drv:i915 dev:0000:00:02.0 complete after 404.128 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.109360] PM: resume of drv: dev:ep_00 complete after 418.046 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.109364] PM: resume of drv:rts5139 dev:1-1.3:1.0 complete after 418.101 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.109383] PM: resume of drv: dev:ep_82 complete after 418.098 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.109389] PM: resume of drv:scsi dev:host6 complete after 417.900 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.109398] PM: resume of drv: dev:ep_01 complete after 418.124 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.109402] PM: resume of drv:scsi_host dev:host6 complete after 417.898 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.109407] PM: resume of drv: dev:ep_83 complete after 418.108 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.109434] PM: resume of drv:scsi dev:target6:0:0 complete after 417.911 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.109498] PM: resume of drv:sd dev:6:0:0:0 complete after 417.972 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.109523] PM: resume of drv:scsi_device dev:6:0:0:0 complete after 417.985 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.176833] usb 1-1.4: reset full-speed USB device number 4 using ehci_hcd
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.209900] PM: resume of drv:uvcvideo dev:3-3:1.1 complete after 518.825 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.209905] PM: resume of drv: dev:ep_00 complete after 518.815 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.209909] PM: resume of drv:uvcvideo dev:3-3:1.0 complete after 518.855 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.209917] PM: resume of drv: dev:ep_87 complete after 518.859 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.270562] btusb 1-1.4:1.0: no reset_resume for driver btusb?
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.270568] btusb 1-1.4:1.1: no reset_resume for driver btusb?
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.520376] PM: resume of drv:usb dev:1-1.4:1.2 complete after 829.561 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.520381] PM: resume of drv:usb dev:1-1.4:1.1 complete after 829.599 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.520386] PM: resume of drv:usb dev:1-1.4:1.0 complete after 829.654 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.520389] PM: resume of drv:usb dev:1-1.4:1.3 complete after 829.528 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.520392] PM: resume of drv: dev:ep_04 complete after 829.553 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.520396] PM: resume of drv: dev:ep_03 complete after 829.593 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.520398] PM: resume of drv: dev:ep_83 complete after 829.606 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.520403] PM: resume of drv: dev:ep_00 complete after 829.539 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.520413] PM: resume of drv: dev:ep_81 complete after 829.675 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.520417] PM: resume of drv: dev:ep_82 complete after 829.662 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.520420] PM: resume of drv: dev:ep_02 complete after 829.652 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2266.520428] PM: resume of drv: dev:ep_84 complete after 829.602 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2268.525164] ata1: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2268.531741] ata1.00: failed to enable AA (error_mask=0x1)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2268.538358] ata1.00: failed to enable AA (error_mask=0x1)
+Sep 16 11:19:38 skulkrn2 kernel: [ 2268.538369] ata1.00: configured for UDMA/100
+Sep 16 11:19:38 skulkrn2 kernel: [ 2268.578953] PM: resume of drv:sd dev:0:0:0:0 complete after 2891.893 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2268.578993] PM: resume of drv:scsi_device dev:0:0:0:0 complete after 2891.816 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2268.578997] PM: resume of drv:scsi_disk dev:0:0:0:0 complete after 2847.313 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2268.579126] PM: resume of devices complete after 2892.826 msecs
+Sep 16 11:19:38 skulkrn2 kernel: [ 2268.579441] PM: resume devices took 2.892 seconds
+Sep 16 11:19:38 skulkrn2 kernel: [ 2268.579529] PM: Finishing wakeup.
+Sep 16 11:19:38 skulkrn2 kernel: [ 2268.579530] Restarting tasks ... 
+Sep 16 11:19:38 skulkrn2 kernel: [ 2268.579607] xhci_hcd 0000:00:14.0: WARN Event TRB for slot 1 ep 14 with no TDs queued?
+Sep 16 11:19:38 skulkrn2 kernel: [ 2268.579611] xhci_hcd 0000:00:14.0: WARN Event TRB for slot 1 ep 0 with no TDs queued?
+Sep 16 11:19:38 skulkrn2 kernel: [ 2268.580855] done.
+Sep 16 11:19:38 skulkrn2 bluetoothd[2792]: Adapter /org/bluez/2792/hci0 has been disabled
+Sep 16 11:19:38 skulkrn2 bluetoothd[2792]: HCI dev 0 unregistered
+Sep 16 11:19:38 skulkrn2 bluetoothd[2792]: Stopping hci0 event socket
+Sep 16 11:19:38 skulkrn2 bluetoothd[2792]: Unregister path: /org/bluez/2792/hci0
+Sep 16 11:19:38 skulkrn2 bluetoothd[2792]: Endpoint unregistered: sender=:1.46 path=/MediaEndpoint/A2DPSink
+Sep 16 11:19:38 skulkrn2 bluetoothd[2792]: Endpoint unregistered: sender=:1.46 path=/MediaEndpoint/A2DPSource
+Sep 16 11:19:38 skulkrn2 bluetoothd[2792]: Endpoint unregistered: sender=:1.46 path=/MediaEndpoint/HFPAG
+Sep 16 11:19:38 skulkrn2 bluetoothd[2792]: HCI dev 0 registered
+Sep 16 11:19:38 skulkrn2 bluetoothd[2792]: Listening for HCI events on hci0
+Sep 16 11:19:38 skulkrn2 kernel: [ 2268.589748] video LNXVIDEO:00: Restoring backlight state
+Sep 16 11:19:38 skulkrn2 acpid: client 3217[0:0] has disconnected
+Sep 16 11:19:38 skulkrn2 acpid: client connected from 3217[0:0]
+Sep 16 11:19:38 skulkrn2 acpid: 1 client rule loaded
+Sep 16 11:19:38 skulkrn2 bluetoothd[2792]: HCI dev 0 up
+Sep 16 11:19:39 skulkrn2 bluetoothd[2792]: Adapter /org/bluez/2792/hci0 has been enabled
+Sep 16 11:19:39 skulkrn2 bluetoothd[2792]: Endpoint registered: sender=:1.46 path=/MediaEndpoint/HFPAG
+Sep 16 11:19:39 skulkrn2 bluetoothd[2792]: Endpoint registered: sender=:1.46 path=/MediaEndpoint/A2DPSource
+Sep 16 11:19:39 skulkrn2 bluetoothd[2792]: Endpoint registered: sender=:1.46 path=/MediaEndpoint/A2DPSink
+Sep 16 11:19:39 skulkrn2 anacron[5327]: Anacron 2.3 started on 2012-09-16
+Sep 16 11:19:39 skulkrn2 anacron[5327]: Normal exit (0 jobs run)
+Sep 16 11:19:39 skulkrn2 kernel: [ 2269.139879] r8169 0000:02:00.0: PME# enabled
+Sep 16 11:19:39 skulkrn2 NetworkManager[2800]: <info> wake requested (sleeping: yes  enabled: yes)
+Sep 16 11:19:39 skulkrn2 NetworkManager[2800]: <info> waking up and re-enabling...
+Sep 16 11:19:39 skulkrn2 NetworkManager[2800]: <info> WWAN now enabled by management service
+Sep 16 11:19:39 skulkrn2 NetworkManager[2800]: <info> (eth0): now managed
+Sep 16 11:19:39 skulkrn2 NetworkManager[2800]: <info> (eth0): device state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+Sep 16 11:19:39 skulkrn2 NetworkManager[2800]: <info> (eth0): bringing up device.
+Sep 16 11:19:39 skulkrn2 kernel: [ 2269.228260] r8169 0000:02:00.0: PME# disabled
+Sep 16 11:19:39 skulkrn2 NetworkManager[2800]: <info> (eth0): preparing device.
+Sep 16 11:19:39 skulkrn2 NetworkManager[2800]: <info> (eth0): deactivating device (reason 'managed') [2]
+Sep 16 11:19:39 skulkrn2 NetworkManager[2800]: <info> Unmanaged Device found; state CONNECTED forced. (see http://bugs.launchpad.net/bugs/191889)
+Sep 16 11:19:39 skulkrn2 NetworkManager[2800]: <info> Unmanaged Device found; state CONNECTED forced. (see http://bugs.launchpad.net/bugs/191889)
+Sep 16 11:19:39 skulkrn2 kernel: [ 2269.422729] r8169 0000:02:00.0: eth0: link down
+Sep 16 11:19:39 skulkrn2 kernel: [ 2269.422889] ADDRCONF(NETDEV_UP): eth0: link is not ready
+Sep 16 11:19:39 skulkrn2 NetworkManager[2800]: <info> (wlan0): now managed
+Sep 16 11:19:39 skulkrn2 NetworkManager[2800]: <info> (wlan0): device state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+Sep 16 11:19:39 skulkrn2 NetworkManager[2800]: <info> (wlan0): bringing up device.
+Sep 16 11:19:39 skulkrn2 kernel: [ 2269.424175] iwlwifi 0000:03:00.0: L1 Enabled; Disabling L0S
+Sep 16 11:19:39 skulkrn2 kernel: [ 2269.431914] iwlwifi 0000:03:00.0: Radio type=0x2-0x0-0x0
+Sep 16 11:19:39 skulkrn2 NetworkManager[2800]: <info> (wlan0): preparing device.
+Sep 16 11:19:39 skulkrn2 NetworkManager[2800]: <info> (wlan0): deactivating device (reason 'managed') [2]
+Sep 16 11:19:39 skulkrn2 kernel: [ 2269.534340] ADDRCONF(NETDEV_UP): wlan0: link is not ready
+Sep 16 11:19:39 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: starting -> ready
+Sep 16 11:19:39 skulkrn2 NetworkManager[2800]: <info> (wlan0): device state change: unavailable -> disconnected (reason 'supplicant-available') [20 30 42]
+Sep 16 11:19:39 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: ready -> inactive
+Sep 16 11:19:39 skulkrn2 NetworkManager[2800]: <warn> Trying to remove a non-existant call id.
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> Auto-activating connection 'IllinoisNet'.
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) starting connection 'IllinoisNet'
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> (wlan0): device state change: disconnected -> prepare (reason 'none') [30 40 0]
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0/wireless): connection 'IllinoisNet' has security, and secrets exist.  No new secrets needed.
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> Config: added 'ssid' value 'IllinoisNet'
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> Config: added 'scan_ssid' value '1'
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> Config: added 'key_mgmt' value 'WPA-EAP'
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> Config: added 'auth_alg' value 'OPEN'
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> Config: added 'password' value '<omitted>'
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> Config: added 'eap' value 'TTLS'
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> Config: added 'fragment_size' value '1300'
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> Config: added 'phase2' value 'auth=MSCHAPV2'
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> Config: added 'identity' value 'skulkrn2'
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> Config: added 'bgscan' value 'simple:30:-45:300'
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> Config: set interface ap_scan to 1
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: inactive -> scanning
+Sep 16 11:20:01 skulkrn2 wpa_supplicant[2992]: Trying to authenticate with 0e:01:1a:4d:f8:c8 (SSID='IllinoisNet' freq=2412 MHz)
+Sep 16 11:20:01 skulkrn2 kernel: [ 2291.514547] wlan0: authenticate with 0e:01:1a:4d:f8:c8 (try 1)
+Sep 16 11:20:01 skulkrn2 wpa_supplicant[2992]: Trying to associate with 0e:01:1a:4d:f8:c8 (SSID='IllinoisNet' freq=2412 MHz)
+Sep 16 11:20:01 skulkrn2 kernel: [ 2291.517548] wlan0: authenticated
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: scanning -> authenticating
+Sep 16 11:20:01 skulkrn2 kernel: [ 2291.524004] wlan0: waiting for beacon from 0e:01:1a:4d:f8:c8
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: authenticating -> associating
+Sep 16 11:20:01 skulkrn2 kernel: [ 2291.620043] wlan0: beacon received
+Sep 16 11:20:01 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-DISCONNECTED bssid=0e:01:1a:4d:f8:c8 reason=9
+Sep 16 11:20:01 skulkrn2 kernel: [ 2291.662653] wlan0: associate with 0e:01:1a:4d:f8:c8 (try 1)
+Sep 16 11:20:01 skulkrn2 kernel: [ 2291.666282] wlan0: deauthenticated from 0e:01:1a:4d:f8:c8 (Reason: 9)
+Sep 16 11:20:01 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: associating -> disconnected
+Sep 16 11:20:14 skulkrn2 kernel: [ 2304.446701] ideapad_laptop: Unknown event: 1
+Sep 16 11:20:37 skulkrn2 kernel: [ 2327.281571] ideapad_laptop: Unknown event: 1
+Sep 16 11:21:01 skulkrn2 NetworkManager[2800]: <warn> Activation (wlan0/wireless): association took too long.
+Sep 16 11:21:01 skulkrn2 NetworkManager[2800]: <info> (wlan0): device state change: config -> need-auth (reason 'none') [50 60 0]
+Sep 16 11:21:01 skulkrn2 NetworkManager[2800]: <warn> Activation (wlan0/wireless): asking for new secrets
+Sep 16 11:21:06 skulkrn2 kernel: [ 2356.527341] ideapad_laptop: Unknown event: 1
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> (wlan0): disconnecting for new activation request.
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> (wlan0): device state change: need-auth -> disconnected (reason 'none') [60 30 0]
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> (wlan0): deactivating device (reason 'none') [0]
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) starting connection 'IllinoisNet'
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> (wlan0): device state change: disconnected -> prepare (reason 'none') [30 40 0]
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0/wireless): access point 'IllinoisNet' has security, but secrets are required.
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> (wlan0): device state change: config -> need-auth (reason 'none') [50 60 0]
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> (wlan0): device state change: need-auth -> prepare (reason 'none') [60 40 0]
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0/wireless): connection 'IllinoisNet' has security, and secrets exist.  No new secrets needed.
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Config: added 'ssid' value 'IllinoisNet'
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Config: added 'scan_ssid' value '1'
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Config: added 'key_mgmt' value 'WPA-EAP'
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Config: added 'auth_alg' value 'OPEN'
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Config: added 'password' value '<omitted>'
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Config: added 'eap' value 'TTLS'
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Config: added 'fragment_size' value '1300'
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Config: added 'phase2' value 'auth=MSCHAPV2'
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Config: added 'identity' value 'skulkrn2'
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Config: added 'bgscan' value 'simple:30:-45:300'
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> Config: set interface ap_scan to 1
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: disconnected -> scanning
+Sep 16 11:21:27 skulkrn2 wpa_supplicant[2992]: Trying to authenticate with 0e:01:1a:4d:f8:c8 (SSID='IllinoisNet' freq=2412 MHz)
+Sep 16 11:21:27 skulkrn2 kernel: [ 2377.261381] wlan0: authenticate with 0e:01:1a:4d:f8:c8 (try 1)
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: scanning -> authenticating
+Sep 16 11:21:27 skulkrn2 wpa_supplicant[2992]: Trying to associate with 0e:01:1a:4d:f8:c8 (SSID='IllinoisNet' freq=2412 MHz)
+Sep 16 11:21:27 skulkrn2 wpa_supplicant[2992]: Association request to the driver failed
+Sep 16 11:21:27 skulkrn2 kernel: [ 2377.264481] wlan0: authenticated
+Sep 16 11:21:27 skulkrn2 kernel: [ 2377.264709] wlan0: failed to insert Dummy STA entry for the AP (error -17)
+Sep 16 11:21:27 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: authenticating -> associating
+Sep 16 11:21:29 skulkrn2 kernel: [ 2379.474373] ideapad_laptop: Unknown event: 1
+Sep 16 11:21:53 skulkrn2 kernel: [ 2402.654352] ideapad_laptop: Unknown event: 1
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> (wlan0): disconnecting for new activation request.
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> (wlan0): device state change: config -> disconnected (reason 'none') [50 30 0]
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> (wlan0): deactivating device (reason 'none') [0]
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) starting connection 'UIUCnet'
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> (wlan0): device state change: disconnected -> prepare (reason 'none') [30 40 0]
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: associating -> disconnected
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0/wireless): connection 'UIUCnet' requires no security.  No secrets needed.
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> Config: added 'ssid' value 'UIUCnet'
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> Config: added 'scan_ssid' value '1'
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> Config: added 'key_mgmt' value 'NONE'
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> Config: set interface ap_scan to 1
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: disconnected -> scanning
+Sep 16 11:22:05 skulkrn2 wpa_supplicant[2992]: Trying to authenticate with 06:01:1a:4d:f8:c8 (SSID='UIUCnet' freq=2412 MHz)
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: scanning -> authenticating
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.140007] wlan0: authenticate with 06:01:1a:4d:f8:c8 (try 1)
+Sep 16 11:22:05 skulkrn2 wpa_supplicant[2992]: Trying to associate with 06:01:1a:4d:f8:c8 (SSID='UIUCnet' freq=2412 MHz)
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.143033] wlan0: authenticated
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: authenticating -> associating
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.148881] wlan0: waiting for beacon from 06:01:1a:4d:f8:c8
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.159825] wlan0: beacon received
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.242677] wlan0: associate with 06:01:1a:4d:f8:c8 (try 1)
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.245906] wlan0: RX AssocResp from 06:01:1a:4d:f8:c8 (capab=0xc21 status=0 aid=34)
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.245913] wlan0: associated
+Sep 16 11:22:05 skulkrn2 wpa_supplicant[2992]: Associated with 06:01:1a:4d:f8:c8
+Sep 16 11:22:05 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-CONNECTED - Connection to 06:01:1a:4d:f8:c8 completed (auth) [id=0 id_str=]
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.249003] ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.249192] cfg80211: Calling CRDA for country: US
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: associating -> completed
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0/wireless) Stage 2 of 5 (Device Configure) successful.  Connected to wireless network 'UIUCnet'.
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) scheduled.
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) started...
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> (wlan0): device state change: config -> ip-config (reason 'none') [50 70 0]
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Beginning DHCPv4 transaction (timeout in 45 seconds)
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> dhclient started with pid 5723
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Beginning IP6 addrconf.
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256356] cfg80211: Updating information on frequency 2412 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256366] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256372] cfg80211: Updating information on frequency 2417 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256379] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256384] cfg80211: Updating information on frequency 2422 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256390] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256395] cfg80211: Updating information on frequency 2427 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256401] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256406] cfg80211: Updating information on frequency 2432 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256412] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256417] cfg80211: Updating information on frequency 2437 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256423] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256428] cfg80211: Updating information on frequency 2442 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256434] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) complete.
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256439] cfg80211: Updating information on frequency 2447 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256446] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256452] cfg80211: Updating information on frequency 2452 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256458] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256463] cfg80211: Updating information on frequency 2457 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256469] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256474] cfg80211: Updating information on frequency 2462 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256481] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256485] cfg80211: Disabling freq 2467 MHz
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256489] cfg80211: Disabling freq 2472 MHz
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256496] cfg80211: Regulatory domain changed to country: US
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256500] cfg80211:     (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp)
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256505] cfg80211:     (2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256511] cfg80211:     (5170000 KHz - 5250000 KHz @ 40000 KHz), (300 mBi, 1700 mBm)
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256516] cfg80211:     (5250000 KHz - 5330000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256522] cfg80211:     (5490000 KHz - 5600000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256528] cfg80211:     (5650000 KHz - 5710000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:22:05 skulkrn2 kernel: [ 2415.256533] cfg80211:     (5735000 KHz - 5835000 KHz @ 40000 KHz), (300 mBi, 3000 mBm)
+Sep 16 11:22:05 skulkrn2 dhclient: Internet Systems Consortium DHCP Client 4.1-ESV-R4
+Sep 16 11:22:05 skulkrn2 dhclient: Copyright 2004-2011 Internet Systems Consortium.
+Sep 16 11:22:05 skulkrn2 dhclient: All rights reserved.
+Sep 16 11:22:05 skulkrn2 dhclient: For info, please visit https://www.isc.org/software/dhcp/
+Sep 16 11:22:05 skulkrn2 dhclient: 
+Sep 16 11:22:05 skulkrn2 NetworkManager[2800]: <info> (wlan0): DHCPv4 state changed nbi -> preinit
+Sep 16 11:22:05 skulkrn2 dhclient: Listening on LPF/wlan0/9c:4e:36:4d:f8:c8
+Sep 16 11:22:05 skulkrn2 dhclient: Sending on   LPF/wlan0/9c:4e:36:4d:f8:c8
+Sep 16 11:22:05 skulkrn2 dhclient: Sending on   Socket/fallback
+Sep 16 11:22:05 skulkrn2 dhclient: DHCPDISCOVER on wlan0 to 255.255.255.255 port 67 interval 3
+Sep 16 11:22:06 skulkrn2 dhclient: DHCPREQUEST of 192.17.206.186 on wlan0 to 255.255.255.255 port 67
+Sep 16 11:22:06 skulkrn2 dhclient: DHCPOFFER of 192.17.206.186 from 192.17.192.1
+Sep 16 11:22:06 skulkrn2 dhclient: DHCPACK of 192.17.206.186 from 192.17.192.1
+Sep 16 11:22:06 skulkrn2 dhclient: bound to 192.17.206.186 -- renewal in 343 seconds.
+Sep 16 11:22:06 skulkrn2 NetworkManager[2800]: <info> (wlan0): DHCPv4 state changed preinit -> bound
+Sep 16 11:22:06 skulkrn2 NetworkManager[2800]: <info>   address 192.17.206.186
+Sep 16 11:22:06 skulkrn2 NetworkManager[2800]: <info>   prefix 20 (255.255.240.0)
+Sep 16 11:22:06 skulkrn2 NetworkManager[2800]: <info>   gateway 192.17.192.1
+Sep 16 11:22:06 skulkrn2 NetworkManager[2800]: <info>   nameserver '130.126.2.131'
+Sep 16 11:22:06 skulkrn2 NetworkManager[2800]: <info>   wins '128.174.5.30'
+Sep 16 11:22:06 skulkrn2 NetworkManager[2800]: <info>   wins '128.174.5.31'
+Sep 16 11:22:06 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Configure Commit) scheduled...
+Sep 16 11:22:06 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Commit) started...
+Sep 16 11:22:06 skulkrn2 avahi-daemon[2858]: Joining mDNS multicast group on interface wlan0.IPv4 with address 192.17.206.186.
+Sep 16 11:22:06 skulkrn2 avahi-daemon[2858]: New relevant interface wlan0.IPv4 for mDNS.
+Sep 16 11:22:06 skulkrn2 avahi-daemon[2858]: Registering new address record for 192.17.206.186 on wlan0.IPv4.
+Sep 16 11:22:07 skulkrn2 avahi-daemon[2858]: Joining mDNS multicast group on interface wlan0.IPv6 with address fe80::9e4e:36ff:fe4d:f8c8.
+Sep 16 11:22:07 skulkrn2 avahi-daemon[2858]: New relevant interface wlan0.IPv6 for mDNS.
+Sep 16 11:22:07 skulkrn2 avahi-daemon[2858]: Registering new address record for fe80::9e4e:36ff:fe4d:f8c8 on wlan0.*.
+Sep 16 11:22:07 skulkrn2 dnsmasq[4734]: exiting on receipt of SIGTERM
+Sep 16 11:22:07 skulkrn2 NetworkManager[2800]: <info> DNS: starting dnsmasq...
+Sep 16 11:22:07 skulkrn2 NetworkManager[2800]: <info> (wlan0): writing resolv.conf to /sbin/resolvconf
+Sep 16 11:22:07 skulkrn2 dnsmasq[5727]: started, version 2.59 cache disabled
+Sep 16 11:22:07 skulkrn2 dnsmasq[5727]: compile time options: IPv6 GNU-getopt DBus i18n DHCP TFTP conntrack IDN
+Sep 16 11:22:07 skulkrn2 dnsmasq[5727]: using nameserver 130.126.2.131#53
+Sep 16 11:22:07 skulkrn2 NetworkManager[2800]: <info> (wlan0): device state change: ip-config -> activated (reason 'none') [70 100 0]
+Sep 16 11:22:07 skulkrn2 NetworkManager[2800]: <info> (wlan0): roamed from BSSID 06:0B:1A:4D:F8:C8 (UIUCnet) to 06:01:1A:4D:F8:C8 (UIUCnet)
+Sep 16 11:22:07 skulkrn2 NetworkManager[2800]: <info> Policy set 'UIUCnet' (wlan0) as default for IPv4 routing and DNS.
+Sep 16 11:22:07 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) successful, device activated.
+Sep 16 11:22:07 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Commit) complete.
+Sep 16 11:22:07 skulkrn2 dbus[2777]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+Sep 16 11:22:07 skulkrn2 dbus[2777]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> (wlan0): disconnecting for new activation request.
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> (wlan0): device state change: activated -> disconnected (reason 'none') [100 30 0]
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> (wlan0): deactivating device (reason 'none') [0]
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> (wlan0): canceled DHCP transaction, DHCP client pid 5723
+Sep 16 11:22:14 skulkrn2 avahi-daemon[2858]: Withdrawing address record for fe80::9e4e:36ff:fe4d:f8c8 on wlan0.
+Sep 16 11:22:14 skulkrn2 avahi-daemon[2858]: Leaving mDNS multicast group on interface wlan0.IPv6 with address fe80::9e4e:36ff:fe4d:f8c8.
+Sep 16 11:22:14 skulkrn2 avahi-daemon[2858]: Interface wlan0.IPv6 no longer relevant for mDNS.
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.102820] wlan0: deauthenticating from 06:01:1a:4d:f8:c8 by local choice (reason=3)
+Sep 16 11:22:14 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-DISCONNECTED bssid=00:00:00:00:00:00 reason=3
+Sep 16 11:22:14 skulkrn2 avahi-daemon[2858]: Withdrawing address record for 192.17.206.186 on wlan0.
+Sep 16 11:22:14 skulkrn2 avahi-daemon[2858]: Leaving mDNS multicast group on interface wlan0.IPv4 with address 192.17.206.186.
+Sep 16 11:22:14 skulkrn2 avahi-daemon[2858]: Interface wlan0.IPv4 no longer relevant for mDNS.
+Sep 16 11:22:14 skulkrn2 dnsmasq[5727]: exiting on receipt of SIGTERM
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> DNS: starting dnsmasq...
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> (wlan0): writing resolv.conf to /sbin/resolvconf
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.209717] cfg80211: All devices are disconnected, going to restore regulatory settings
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.209722] cfg80211: Restoring regulatory settings
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.209726] cfg80211: Calling CRDA to update world regulatory domain
+Sep 16 11:22:14 skulkrn2 dnsmasq[5778]: started, version 2.59 cache disabled
+Sep 16 11:22:14 skulkrn2 dnsmasq[5778]: compile time options: IPv6 GNU-getopt DBus i18n DHCP TFTP conntrack IDN
+Sep 16 11:22:14 skulkrn2 dnsmasq[5778]: warning: no upstream servers configured
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.213690] cfg80211: Ignoring regulatory request Set by core since the driver uses its own custom regulatory domain
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.213695] cfg80211: World regulatory domain updated:
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.213698] cfg80211:     (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.213702] cfg80211:     (2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.213705] cfg80211:     (2457000 KHz - 2482000 KHz @ 20000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.213709] cfg80211:     (2474000 KHz - 2494000 KHz @ 20000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.213712] cfg80211:     (5170000 KHz - 5250000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.213715] cfg80211:     (5735000 KHz - 5835000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) starting connection 'IllinoisNet'
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> (wlan0): device state change: disconnected -> prepare (reason 'none') [30 40 0]
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: completed -> disconnected
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0/wireless): connection 'IllinoisNet' has security, and secrets exist.  No new secrets needed.
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> Config: added 'ssid' value 'IllinoisNet'
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> Config: added 'scan_ssid' value '1'
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> Config: added 'key_mgmt' value 'WPA-EAP'
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> Config: added 'auth_alg' value 'OPEN'
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> Config: added 'password' value '<omitted>'
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> Config: added 'eap' value 'TTLS'
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> Config: added 'fragment_size' value '1300'
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> Config: added 'phase2' value 'auth=MSCHAPV2'
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> Config: added 'identity' value 'skulkrn2'
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> Config: added 'bgscan' value 'simple:30:-45:300'
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> Config: set interface ap_scan to 1
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: disconnected -> scanning
+Sep 16 11:22:14 skulkrn2 wpa_supplicant[2992]: Trying to authenticate with 0e:01:1a:4d:f8:c8 (SSID='IllinoisNet' freq=2412 MHz)
+Sep 16 11:22:14 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-DISCONNECTED bssid=0e:01:1a:4d:f8:c8 reason=2
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.450875] wlan0: deauthenticating from 0e:01:1a:4d:f8:c8 by local choice (reason=2)
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: scanning -> authenticating
+Sep 16 11:22:14 skulkrn2 wpa_supplicant[2992]: Trying to associate with 0e:01:1a:4d:f8:c8 (SSID='IllinoisNet' freq=2412 MHz)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.453826] wlan0: authenticate with 0e:01:1a:4d:f8:c8 (try 1)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.456774] wlan0: authenticated
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.456989] wlan0: associate with 0e:01:1a:4d:f8:c8 (try 1)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.460851] wlan0: RX AssocResp from 0e:01:1a:4d:f8:c8 (capab=0xc31 status=0 aid=20)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.460854] wlan0: associated
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: authenticating -> associating
+Sep 16 11:22:14 skulkrn2 wpa_supplicant[2992]: Associated with 0e:01:1a:4d:f8:c8
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.463732] cfg80211: Calling CRDA for country: US
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467832] cfg80211: Updating information on frequency 2412 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467836] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467839] cfg80211: Updating information on frequency 2417 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467841] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467844] cfg80211: Updating information on frequency 2422 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467846] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467848] cfg80211: Updating information on frequency 2427 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467851] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467853] cfg80211: Updating information on frequency 2432 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467855] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467857] cfg80211: Updating information on frequency 2437 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467860] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467861] cfg80211: Updating information on frequency 2442 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467864] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467866] cfg80211: Updating information on frequency 2447 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467868] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467870] cfg80211: Updating information on frequency 2452 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467873] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467875] cfg80211: Updating information on frequency 2457 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467877] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467879] cfg80211: Updating information on frequency 2462 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467882] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467884] cfg80211: Disabling freq 2467 MHz
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467885] cfg80211: Disabling freq 2472 MHz
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467888] cfg80211: Regulatory domain changed to country: US
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467890] cfg80211:     (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467892] cfg80211:     (2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467894] cfg80211:     (5170000 KHz - 5250000 KHz @ 40000 KHz), (300 mBi, 1700 mBm)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467897] cfg80211:     (5250000 KHz - 5330000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467899] cfg80211:     (5490000 KHz - 5600000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467901] cfg80211:     (5650000 KHz - 5710000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:22:14 skulkrn2 kernel: [ 2424.467903] cfg80211:     (5735000 KHz - 5835000 KHz @ 40000 KHz), (300 mBi, 3000 mBm)
+Sep 16 11:22:14 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: associating -> associated
+Sep 16 11:22:14 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-STARTED EAP authentication started
+Sep 16 11:22:15 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-PROPOSED-METHOD vendor=0 method=21
+Sep 16 11:22:15 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-METHOD EAP vendor 0 method 21 (TTLS) selected
+Sep 16 11:22:15 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-PEER-CERT depth=1 subject='/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO High-Assurance Secure Server CA'
+Sep 16 11:22:15 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-PEER-CERT depth=1 subject='/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO High-Assurance Secure Server CA'
+Sep 16 11:22:15 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-PEER-CERT depth=0 subject='/C=US/postalCode=61801/ST=IL/L=Urbana/street=LEAVE_THIS_FIELD_BLANK/street=LEAVE_THIS_FIELD_BLANK/street=LEAVE_THIS_FIELD_BLANK/O=University of Illinois/OU=Urbana-Champaign Campus/OU=PlatinumSSL/CN=wireless.illinois.edu'
+Sep 16 11:22:15 skulkrn2 wpa_supplicant[2992]: EAP-TTLS: Phase 2 MSCHAPV2 authentication succeeded
+Sep 16 11:22:15 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-SUCCESS EAP authentication completed successfully
+Sep 16 11:22:15 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: associated -> 4-way handshake
+Sep 16 11:22:15 skulkrn2 wpa_supplicant[2992]: WPA: Key negotiation completed with 0e:01:1a:4d:f8:c8 [PTK=CCMP GTK=CCMP]
+Sep 16 11:22:15 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-CONNECTED - Connection to 0e:01:1a:4d:f8:c8 completed (reauth) [id=0 id_str=]
+Sep 16 11:22:15 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: 4-way handshake -> completed
+Sep 16 11:22:15 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0/wireless) Stage 2 of 5 (Device Configure) successful.  Connected to wireless network 'IllinoisNet'.
+Sep 16 11:22:15 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) scheduled.
+Sep 16 11:22:15 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) started...
+Sep 16 11:22:15 skulkrn2 NetworkManager[2800]: <info> (wlan0): device state change: config -> ip-config (reason 'none') [50 70 0]
+Sep 16 11:22:15 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Beginning DHCPv4 transaction (timeout in 45 seconds)
+Sep 16 11:22:15 skulkrn2 NetworkManager[2800]: <info> dhclient started with pid 5802
+Sep 16 11:22:15 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Beginning IP6 addrconf.
+Sep 16 11:22:15 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) complete.
+Sep 16 11:22:15 skulkrn2 dhclient: Internet Systems Consortium DHCP Client 4.1-ESV-R4
+Sep 16 11:22:15 skulkrn2 dhclient: Copyright 2004-2011 Internet Systems Consortium.
+Sep 16 11:22:15 skulkrn2 dhclient: All rights reserved.
+Sep 16 11:22:15 skulkrn2 dhclient: For info, please visit https://www.isc.org/software/dhcp/
+Sep 16 11:22:15 skulkrn2 dhclient: 
+Sep 16 11:22:15 skulkrn2 NetworkManager[2800]: <info> (wlan0): DHCPv4 state changed nbi -> preinit
+Sep 16 11:22:15 skulkrn2 dhclient: Listening on LPF/wlan0/9c:4e:36:4d:f8:c8
+Sep 16 11:22:15 skulkrn2 dhclient: Sending on   LPF/wlan0/9c:4e:36:4d:f8:c8
+Sep 16 11:22:15 skulkrn2 dhclient: Sending on   Socket/fallback
+Sep 16 11:22:15 skulkrn2 dhclient: DHCPDISCOVER on wlan0 to 255.255.255.255 port 67 interval 3
+Sep 16 11:22:16 skulkrn2 ntpdate[5763]: no server suitable for synchronization found
+Sep 16 11:22:16 skulkrn2 dhclient: DHCPREQUEST of 192.17.252.41 on wlan0 to 255.255.255.255 port 67
+Sep 16 11:22:16 skulkrn2 dhclient: DHCPOFFER of 192.17.252.41 from 192.17.2.20
+Sep 16 11:22:16 skulkrn2 dhclient: DHCPACK of 192.17.252.41 from 192.17.2.20
+Sep 16 11:22:16 skulkrn2 dhclient: bound to 192.17.252.41 -- renewal in 447 seconds.
+Sep 16 11:22:16 skulkrn2 NetworkManager[2800]: <info> (wlan0): DHCPv4 state changed preinit -> bound
+Sep 16 11:22:16 skulkrn2 NetworkManager[2800]: <info>   address 192.17.252.41
+Sep 16 11:22:16 skulkrn2 NetworkManager[2800]: <info>   prefix 21 (255.255.248.0)
+Sep 16 11:22:16 skulkrn2 NetworkManager[2800]: <info>   gateway 192.17.248.1
+Sep 16 11:22:16 skulkrn2 NetworkManager[2800]: <info>   nameserver '130.126.2.131'
+Sep 16 11:22:16 skulkrn2 NetworkManager[2800]: <info>   wins '128.174.5.30'
+Sep 16 11:22:16 skulkrn2 NetworkManager[2800]: <info>   wins '128.174.5.31'
+Sep 16 11:22:16 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Configure Commit) scheduled...
+Sep 16 11:22:16 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Commit) started...
+Sep 16 11:22:16 skulkrn2 avahi-daemon[2858]: Joining mDNS multicast group on interface wlan0.IPv4 with address 192.17.252.41.
+Sep 16 11:22:16 skulkrn2 avahi-daemon[2858]: New relevant interface wlan0.IPv4 for mDNS.
+Sep 16 11:22:16 skulkrn2 avahi-daemon[2858]: Registering new address record for 192.17.252.41 on wlan0.IPv4.
+Sep 16 11:22:16 skulkrn2 kernel: [ 2425.919396] ideapad_laptop: Unknown event: 1
+Sep 16 11:22:17 skulkrn2 avahi-daemon[2858]: Joining mDNS multicast group on interface wlan0.IPv6 with address fe80::9e4e:36ff:fe4d:f8c8.
+Sep 16 11:22:17 skulkrn2 avahi-daemon[2858]: New relevant interface wlan0.IPv6 for mDNS.
+Sep 16 11:22:17 skulkrn2 avahi-daemon[2858]: Registering new address record for fe80::9e4e:36ff:fe4d:f8c8 on wlan0.*.
+Sep 16 11:22:17 skulkrn2 dnsmasq[5778]: exiting on receipt of SIGTERM
+Sep 16 11:22:17 skulkrn2 NetworkManager[2800]: <info> DNS: starting dnsmasq...
+Sep 16 11:22:17 skulkrn2 NetworkManager[2800]: <info> (wlan0): writing resolv.conf to /sbin/resolvconf
+Sep 16 11:22:17 skulkrn2 dnsmasq[5807]: started, version 2.59 cache disabled
+Sep 16 11:22:17 skulkrn2 dnsmasq[5807]: compile time options: IPv6 GNU-getopt DBus i18n DHCP TFTP conntrack IDN
+Sep 16 11:22:17 skulkrn2 dnsmasq[5807]: using nameserver 130.126.2.131#53
+Sep 16 11:22:17 skulkrn2 NetworkManager[2800]: <info> (wlan0): device state change: ip-config -> activated (reason 'none') [70 100 0]
+Sep 16 11:22:17 skulkrn2 NetworkManager[2800]: <info> (wlan0): roamed from BSSID 0E:06:1A:38:38:6B (IllinoisNet) to 0E:01:1A:4D:F8:C8 (IllinoisNet)
+Sep 16 11:22:17 skulkrn2 NetworkManager[2800]: <info> Policy set 'IllinoisNet' (wlan0) as default for IPv4 routing and DNS.
+Sep 16 11:22:17 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) successful, device activated.
+Sep 16 11:22:17 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Commit) complete.
+Sep 16 11:22:25 skulkrn2 ntpdate[5840]: adjust time server 91.189.94.4 offset -0.268779 sec
+Sep 16 11:22:26 skulkrn2 kernel: [ 2435.668353] wlan0: no IPv6 routers present
+Sep 16 11:22:35 skulkrn2 NetworkManager[2800]: <info> (wlan0): IP6 addrconf timed out or failed.
+Sep 16 11:22:35 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) scheduled...
+Sep 16 11:22:35 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) started...
+Sep 16 11:22:35 skulkrn2 NetworkManager[2800]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) complete.
+Sep 16 11:22:39 skulkrn2 kernel: [ 2448.735933] ideapad_laptop: Unknown event: 1
+Sep 16 11:23:02 skulkrn2 kernel: [ 2471.484993] ideapad_laptop: Unknown event: 1
+Sep 16 11:23:11 skulkrn2 wpa_supplicant[2992]: Trying to authenticate with 0e:01:1a:4d:40:0c (SSID='IllinoisNet' freq=2412 MHz)
+Sep 16 11:23:11 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: completed -> authenticating
+Sep 16 11:23:11 skulkrn2 kernel: [ 2481.307909] wlan0: direct probe to 0e:01:1a:4d:40:0c (try 1/3)
+Sep 16 11:23:12 skulkrn2 kernel: [ 2481.507105] wlan0: direct probe to 0e:01:1a:4d:40:0c (try 2/3)
+Sep 16 11:23:12 skulkrn2 kernel: [ 2481.706912] wlan0: direct probe to 0e:01:1a:4d:40:0c (try 3/3)
+Sep 16 11:23:12 skulkrn2 kernel: [ 2481.906685] wlan0: direct probe to 0e:01:1a:4d:40:0c timed out
+Sep 16 11:23:17 skulkrn2 wpa_supplicant[2992]: Trying to authenticate with 0e:0b:1a:4d:f8:c8 (SSID='IllinoisNet' freq=2462 MHz)
+Sep 16 11:23:17 skulkrn2 kernel: [ 2487.409370] wlan0: deauthenticating from 0e:01:1a:4d:f8:c8 by local choice (reason=2)
+Sep 16 11:23:17 skulkrn2 kernel: [ 2487.410158] cfg80211: All devices are disconnected, going to restore regulatory settings
+Sep 16 11:23:17 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-DISCONNECTED bssid=0e:0b:1a:4d:f8:c8 reason=2
+Sep 16 11:23:17 skulkrn2 kernel: [ 2487.410167] cfg80211: Restoring regulatory settings
+Sep 16 11:23:17 skulkrn2 kernel: [ 2487.410174] cfg80211: Calling CRDA to update world regulatory domain
+Sep 16 11:23:17 skulkrn2 kernel: [ 2487.416674] wlan0: authenticate with 0e:0b:1a:4d:f8:c8 (try 1)
+Sep 16 11:23:18 skulkrn2 wpa_supplicant[2992]: Trying to associate with 0e:0b:1a:4d:f8:c8 (SSID='IllinoisNet' freq=2462 MHz)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.418052] cfg80211: Ignoring regulatory request Set by core since the driver uses its own custom regulatory domain
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.418056] cfg80211: World regulatory domain updated:
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.418058] cfg80211:     (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.418061] cfg80211:     (2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.418063] cfg80211:     (2457000 KHz - 2482000 KHz @ 20000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.418066] cfg80211:     (2474000 KHz - 2494000 KHz @ 20000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.418068] cfg80211:     (5170000 KHz - 5250000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.418070] cfg80211:     (5735000 KHz - 5835000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.419737] wlan0: authenticated
+Sep 16 11:23:18 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: authenticating -> associating
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.427176] wlan0: waiting for beacon from 0e:0b:1a:4d:f8:c8
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.472002] wlan0: beacon received
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.537137] wlan0: associate with 0e:0b:1a:4d:f8:c8 (try 1)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.540609] wlan0: RX ReassocResp from 0e:0b:1a:4d:f8:c8 (capab=0xc31 status=0 aid=21)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.540617] wlan0: associated
+Sep 16 11:23:18 skulkrn2 wpa_supplicant[2992]: Associated with 0e:0b:1a:4d:f8:c8
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.543955] cfg80211: Calling CRDA for country: US
+Sep 16 11:23:18 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: associating -> associated
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.550909] cfg80211: Updating information on frequency 2412 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.550917] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.550921] cfg80211: Updating information on frequency 2417 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.550926] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.550929] cfg80211: Updating information on frequency 2422 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.550934] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.550937] cfg80211: Updating information on frequency 2427 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.550942] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.550945] cfg80211: Updating information on frequency 2432 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.550950] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.550953] cfg80211: Updating information on frequency 2437 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.550958] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.550961] cfg80211: Updating information on frequency 2442 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.550965] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.550969] cfg80211: Updating information on frequency 2447 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.550973] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.550977] cfg80211: Updating information on frequency 2452 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.550981] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.550985] cfg80211: Updating information on frequency 2457 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.550989] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.550993] cfg80211: Updating information on frequency 2462 MHz for a 20 MHz width channel with regulatory rule:
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.550997] cfg80211: 2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.551000] cfg80211: Disabling freq 2467 MHz
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.551003] cfg80211: Disabling freq 2472 MHz
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.551008] cfg80211: Regulatory domain changed to country: US
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.551010] cfg80211:     (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.551015] cfg80211:     (2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2700 mBm)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.551019] cfg80211:     (5170000 KHz - 5250000 KHz @ 40000 KHz), (300 mBi, 1700 mBm)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.551022] cfg80211:     (5250000 KHz - 5330000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.551026] cfg80211:     (5490000 KHz - 5600000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.551030] cfg80211:     (5650000 KHz - 5710000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+Sep 16 11:23:18 skulkrn2 kernel: [ 2487.551034] cfg80211:     (5735000 KHz - 5835000 KHz @ 40000 KHz), (300 mBi, 3000 mBm)
+Sep 16 11:23:18 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-STARTED EAP authentication started
+Sep 16 11:23:18 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-PROPOSED-METHOD vendor=0 method=21
+Sep 16 11:23:18 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-METHOD EAP vendor 0 method 21 (TTLS) selected
+Sep 16 11:23:18 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-SUCCESS EAP authentication completed successfully
+Sep 16 11:23:18 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: associated -> 4-way handshake
+Sep 16 11:23:18 skulkrn2 wpa_supplicant[2992]: WPA: Key negotiation completed with 0e:0b:1a:4d:f8:c8 [PTK=CCMP GTK=CCMP]
+Sep 16 11:23:18 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-CONNECTED - Connection to 0e:0b:1a:4d:f8:c8 completed (reauth) [id=0 id_str=]
+Sep 16 11:23:18 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: 4-way handshake -> completed
+Sep 16 11:23:21 skulkrn2 NetworkManager[2800]: <info> (wlan0): roamed from BSSID 0E:01:1A:4D:F8:C8 (IllinoisNet) to 0E:0B:1A:4D:F8:C8 (IllinoisNet)
+Sep 16 11:23:24 skulkrn2 kernel: [ 2494.225654] ideapad_laptop: Unknown event: 1
+Sep 16 11:23:47 skulkrn2 kernel: [ 2517.125701] ideapad_laptop: Unknown event: 1
+Sep 16 11:24:10 skulkrn2 kernel: [ 2540.077940] ideapad_laptop: Unknown event: 1
+Sep 16 11:24:33 skulkrn2 kernel: [ 2562.907321] ideapad_laptop: Unknown event: 1
+Sep 16 11:24:42 skulkrn2 wpa_supplicant[2992]: Trying to authenticate with 0e:01:1a:4d:f8:c8 (SSID='IllinoisNet' freq=2412 MHz)
+Sep 16 11:24:42 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: completed -> authenticating
+Sep 16 11:24:42 skulkrn2 wpa_supplicant[2992]: Trying to associate with 0e:01:1a:4d:f8:c8 (SSID='IllinoisNet' freq=2412 MHz)
+Sep 16 11:24:42 skulkrn2 kernel: [ 2571.726139] wlan0: authenticate with 0e:01:1a:4d:f8:c8 (try 1)
+Sep 16 11:24:42 skulkrn2 kernel: [ 2571.729226] wlan0: authenticated
+Sep 16 11:24:42 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: authenticating -> associating
+Sep 16 11:24:42 skulkrn2 kernel: [ 2571.802033] wlan0: waiting for beacon from 0e:01:1a:4d:f8:c8
+Sep 16 11:24:42 skulkrn2 kernel: [ 2571.816653] wlan0: beacon received
+Sep 16 11:24:42 skulkrn2 kernel: [ 2571.816768] wlan0: associate with 0e:01:1a:4d:f8:c8 (try 1)
+Sep 16 11:24:42 skulkrn2 kernel: [ 2571.820350] wlan0: RX ReassocResp from 0e:01:1a:4d:f8:c8 (capab=0xc31 status=0 aid=20)
+Sep 16 11:24:42 skulkrn2 kernel: [ 2571.820357] wlan0: associated
+Sep 16 11:24:42 skulkrn2 wpa_supplicant[2992]: Associated with 0e:01:1a:4d:f8:c8
+Sep 16 11:24:42 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: associating -> associated
+Sep 16 11:24:42 skulkrn2 wpa_supplicant[2992]: WPA: Failed to get master session key from EAPOL state machines
+Sep 16 11:24:42 skulkrn2 wpa_supplicant[2992]: WPA: Key handshake aborted
+Sep 16 11:24:42 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: associated -> 4-way handshake
+Sep 16 11:24:42 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-STARTED EAP authentication started
+Sep 16 11:24:42 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-PROPOSED-METHOD vendor=0 method=21
+Sep 16 11:24:42 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-METHOD EAP vendor 0 method 21 (TTLS) selected
+Sep 16 11:24:42 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-SUCCESS EAP authentication completed successfully
+Sep 16 11:24:42 skulkrn2 wpa_supplicant[2992]: WPA: Key negotiation completed with 0e:01:1a:4d:f8:c8 [PTK=CCMP GTK=CCMP]
+Sep 16 11:24:42 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-CONNECTED - Connection to 0e:01:1a:4d:f8:c8 completed (reauth) [id=0 id_str=]
+Sep 16 11:24:42 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: 4-way handshake -> completed
+Sep 16 11:24:45 skulkrn2 NetworkManager[2800]: <info> (wlan0): roamed from BSSID 0E:0B:1A:4D:F8:C8 (IllinoisNet) to 0E:01:1A:4D:F8:C8 (IllinoisNet)
+Sep 16 11:24:56 skulkrn2 kernel: [ 2585.654782] ideapad_laptop: Unknown event: 1
+Sep 16 11:25:17 skulkrn2 kernel: [ 2606.587434] iwlwifi 0000:03:00.0: Queue 2 stuck for 2000 ms.
+Sep 16 11:25:17 skulkrn2 kernel: [ 2606.587441] iwlwifi 0000:03:00.0: Current read_ptr 249 write_ptr 251
+Sep 16 11:25:17 skulkrn2 kernel: [ 2606.587445] iwlwifi 0000:03:00.0: On demand firmware reload
+Sep 16 11:25:17 skulkrn2 kernel: [ 2606.587872] ieee80211 phy0: Hardware restart was requested
+Sep 16 11:25:17 skulkrn2 kernel: [ 2606.587968] iwlwifi 0000:03:00.0: L1 Enabled; Disabling L0S
+Sep 16 11:25:17 skulkrn2 kernel: [ 2606.595664] iwlwifi 0000:03:00.0: Radio type=0x2-0x0-0x0
+Sep 16 11:25:19 skulkrn2 kernel: [ 2608.387944] ideapad_laptop: Unknown event: 1
+Sep 16 11:25:27 skulkrn2 wpa_supplicant[2992]: Trying to authenticate with 0e:06:1a:4d:f8:c8 (SSID='IllinoisNet' freq=2437 MHz)
+Sep 16 11:25:27 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: completed -> authenticating
+Sep 16 11:25:27 skulkrn2 kernel: [ 2617.057004] wlan0: authenticate with 0e:06:1a:4d:f8:c8 (try 1)
+Sep 16 11:25:27 skulkrn2 wpa_supplicant[2992]: Trying to associate with 0e:06:1a:4d:f8:c8 (SSID='IllinoisNet' freq=2437 MHz)
+Sep 16 11:25:27 skulkrn2 kernel: [ 2617.059959] wlan0: authenticated
+Sep 16 11:25:27 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: authenticating -> associating
+Sep 16 11:25:27 skulkrn2 kernel: [ 2617.117324] wlan0: associate with 0e:06:1a:4d:f8:c8 (try 1)
+Sep 16 11:25:27 skulkrn2 kernel: [ 2617.119528] wlan0: RX ReassocResp from 0e:06:1a:4d:f8:c8 (capab=0xc31 status=0 aid=5)
+Sep 16 11:25:27 skulkrn2 kernel: [ 2617.119536] wlan0: associated
+Sep 16 11:25:27 skulkrn2 wpa_supplicant[2992]: Associated with 0e:06:1a:4d:f8:c8
+Sep 16 11:25:27 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: associating -> associated
+Sep 16 11:25:27 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-STARTED EAP authentication started
+Sep 16 11:25:27 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-PROPOSED-METHOD vendor=0 method=21
+Sep 16 11:25:27 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-METHOD EAP vendor 0 method 21 (TTLS) selected
+Sep 16 11:25:27 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-SUCCESS EAP authentication completed successfully
+Sep 16 11:25:27 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: associated -> 4-way handshake
+Sep 16 11:25:27 skulkrn2 wpa_supplicant[2992]: WPA: Key negotiation completed with 0e:06:1a:4d:f8:c8 [PTK=CCMP GTK=CCMP]
+Sep 16 11:25:27 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-CONNECTED - Connection to 0e:06:1a:4d:f8:c8 completed (reauth) [id=0 id_str=]
+Sep 16 11:25:27 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: 4-way handshake -> completed
+Sep 16 11:25:33 skulkrn2 NetworkManager[2800]: <info> (wlan0): roamed from BSSID 0E:01:1A:4D:F8:C8 (IllinoisNet) to 0E:06:1A:4D:F8:C8 (IllinoisNet)
+Sep 16 11:25:41 skulkrn2 kernel: [ 2631.129224] ideapad_laptop: Unknown event: 1
+Sep 16 11:26:02 skulkrn2 wpa_supplicant[2992]: Trying to authenticate with 0e:01:1a:4d:f8:c8 (SSID='IllinoisNet' freq=2412 MHz)
+Sep 16 11:26:02 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: completed -> authenticating
+Sep 16 11:26:02 skulkrn2 wpa_supplicant[2992]: Trying to associate with 0e:01:1a:4d:f8:c8 (SSID='IllinoisNet' freq=2412 MHz)
+Sep 16 11:26:02 skulkrn2 kernel: [ 2651.667546] wlan0: authenticate with 0e:01:1a:4d:f8:c8 (try 1)
+Sep 16 11:26:02 skulkrn2 kernel: [ 2651.670628] wlan0: authenticated
+Sep 16 11:26:02 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: authenticating -> associating
+Sep 16 11:26:02 skulkrn2 kernel: [ 2651.751089] wlan0: waiting for beacon from 0e:01:1a:4d:f8:c8
+Sep 16 11:26:02 skulkrn2 kernel: [ 2651.840243] wlan0: beacon received
+Sep 16 11:26:02 skulkrn2 kernel: [ 2651.840349] wlan0: associate with 0e:01:1a:4d:f8:c8 (try 1)
+Sep 16 11:26:02 skulkrn2 kernel: [ 2651.844760] wlan0: RX ReassocResp from 0e:01:1a:4d:f8:c8 (capab=0xc31 status=0 aid=20)
+Sep 16 11:26:02 skulkrn2 kernel: [ 2651.844767] wlan0: associated
+Sep 16 11:26:02 skulkrn2 wpa_supplicant[2992]: Associated with 0e:01:1a:4d:f8:c8
+Sep 16 11:26:02 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: associating -> associated
+Sep 16 11:26:02 skulkrn2 wpa_supplicant[2992]: WPA: Failed to get master session key from EAPOL state machines
+Sep 16 11:26:02 skulkrn2 wpa_supplicant[2992]: WPA: Key handshake aborted
+Sep 16 11:26:02 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: associated -> 4-way handshake
+Sep 16 11:26:02 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-STARTED EAP authentication started
+Sep 16 11:26:02 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-PROPOSED-METHOD vendor=0 method=21
+Sep 16 11:26:02 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-METHOD EAP vendor 0 method 21 (TTLS) selected
+Sep 16 11:26:02 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-PEER-CERT depth=1 subject='/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO High-Assurance Secure Server CA'
+Sep 16 11:26:02 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-PEER-CERT depth=1 subject='/C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO High-Assurance Secure Server CA'
+Sep 16 11:26:02 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-PEER-CERT depth=0 subject='/C=US/postalCode=61801/ST=IL/L=Urbana/street=LEAVE_THIS_FIELD_BLANK/street=LEAVE_THIS_FIELD_BLANK/street=LEAVE_THIS_FIELD_BLANK/O=University of Illinois/OU=Urbana-Champaign Campus/OU=PlatinumSSL/CN=wireless.illinois.edu'
+Sep 16 11:26:02 skulkrn2 wpa_supplicant[2992]: EAP-TTLS: Phase 2 MSCHAPV2 authentication succeeded
+Sep 16 11:26:02 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-EAP-SUCCESS EAP authentication completed successfully
+Sep 16 11:26:02 skulkrn2 wpa_supplicant[2992]: WPA: Key negotiation completed with 0e:01:1a:4d:f8:c8 [PTK=CCMP GTK=CCMP]
+Sep 16 11:26:02 skulkrn2 wpa_supplicant[2992]: CTRL-EVENT-CONNECTED - Connection to 0e:01:1a:4d:f8:c8 completed (reauth) [id=0 id_str=]
+Sep 16 11:26:02 skulkrn2 NetworkManager[2800]: <info> (wlan0): supplicant interface state: 4-way handshake -> completed
+Sep 16 11:26:03 skulkrn2 NetworkManager[2800]: <info> (wlan0): roamed from BSSID 0E:06:1A:4D:F8:C8 (IllinoisNet) to 0E:01:1A:4D:F8:C8 (IllinoisNet)
+Sep 16 11:26:04 skulkrn2 kernel: [ 2654.046426] ideapad_laptop: Unknown event: 1
+Sep 16 11:26:27 skulkrn2 kernel: [ 2676.943618] ideapad_laptop: Unknown event: 1
+Sep 16 11:26:50 skulkrn2 kernel: [ 2699.702263] ideapad_laptop: Unknown event: 1
+Sep 16 11:27:13 skulkrn2 kernel: [ 2722.646302] ideapad_laptop: Unknown event: 1
+Sep 16 11:27:36 skulkrn2 kernel: [ 2745.391744] ideapad_laptop: Unknown event: 1
+Sep 16 11:27:59 skulkrn2 kernel: [ 2768.169229] ideapad_laptop: Unknown event: 1
+Sep 16 11:28:16 skulkrn2 kernel: [ 2785.762435] xhci_hcd 0000:00:14.0: WARN Event TRB for slot 1 ep 0 with no TDs queued?
+Sep 16 11:28:22 skulkrn2 kernel: [ 2791.242330] ideapad_laptop: Unknown event: 1
+Sep 16 11:28:45 skulkrn2 kernel: [ 2814.469118] ideapad_laptop: Unknown event: 1
+Sep 16 11:29:08 skulkrn2 kernel: [ 2837.636905] ideapad_laptop: Unknown event: 1
+Sep 16 11:29:31 skulkrn2 kernel: [ 2860.369771] ideapad_laptop: Unknown event: 1
+Sep 16 11:29:43 skulkrn2 dhclient: DHCPREQUEST of 192.17.252.41 on wlan0 to 192.17.2.20 port 67
+Sep 16 11:29:43 skulkrn2 dhclient: DHCPACK of 192.17.252.41 from 192.17.2.20
+Sep 16 11:29:43 skulkrn2 dhclient: bound to 192.17.252.41 -- renewal in 393 seconds.
+Sep 16 11:29:43 skulkrn2 NetworkManager[2800]: <info> (wlan0): DHCPv4 state changed bound -> renew
+Sep 16 11:29:43 skulkrn2 NetworkManager[2800]: <info>   address 192.17.252.41
+Sep 16 11:29:43 skulkrn2 NetworkManager[2800]: <info>   prefix 21 (255.255.248.0)
+Sep 16 11:29:43 skulkrn2 NetworkManager[2800]: <info>   gateway 192.17.248.1
+Sep 16 11:29:43 skulkrn2 NetworkManager[2800]: <info>   nameserver '130.126.2.131'
+Sep 16 11:29:43 skulkrn2 NetworkManager[2800]: <info>   wins '128.174.5.30'
+Sep 16 11:29:43 skulkrn2 NetworkManager[2800]: <info>   wins '128.174.5.31'
+Sep 16 11:29:43 skulkrn2 dbus[2777]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+Sep 16 11:29:43 skulkrn2 dbus[2777]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Sep 16 11:29:54 skulkrn2 kernel: [ 2883.113448] ideapad_laptop: Unknown event: 1
+Sep 16 11:30:16 skulkrn2 kernel: [ 2905.853810] ideapad_laptop: Unknown event: 1
+Sep 16 11:30:39 skulkrn2 kernel: [ 2928.596549] ideapad_laptop: Unknown event: 1
+Sep 16 11:31:02 skulkrn2 kernel: [ 2951.332706] ideapad_laptop: Unknown event: 1
+Sep 16 11:31:25 skulkrn2 kernel: [ 2974.076282] ideapad_laptop: Unknown event: 1
+Sep 16 11:31:48 skulkrn2 kernel: [ 2997.114737] ideapad_laptop: Unknown event: 1
+Sep 16 11:32:10 skulkrn2 kernel: [ 3019.857175] ideapad_laptop: Unknown event: 1
+Sep 16 11:32:33 skulkrn2 kernel: [ 3042.607818] ideapad_laptop: Unknown event: 1
+Sep 16 11:32:56 skulkrn2 kernel: [ 3065.355763] ideapad_laptop: Unknown event: 1
+Sep 16 11:33:19 skulkrn2 kernel: [ 3088.101035] ideapad_laptop: Unknown event: 1
+Sep 16 11:33:42 skulkrn2 kernel: [ 3110.850810] ideapad_laptop: Unknown event: 1
+Sep 16 11:34:04 skulkrn2 kernel: [ 3133.682537] ideapad_laptop: Unknown event: 1
+Sep 16 11:34:27 skulkrn2 kernel: [ 3156.425278] ideapad_laptop: Unknown event: 1
+Sep 16 11:34:50 skulkrn2 kernel: [ 3179.170623] ideapad_laptop: Unknown event: 1
+Sep 16 11:35:13 skulkrn2 kernel: [ 3201.920317] ideapad_laptop: Unknown event: 1
+Sep 16 11:35:36 skulkrn2 kernel: [ 3224.659558] ideapad_laptop: Unknown event: 1
+Sep 16 11:36:16 skulkrn2 dhclient: DHCPREQUEST of 192.17.252.41 on wlan0 to 192.17.2.20 port 67
+Sep 16 11:36:16 skulkrn2 dhclient: DHCPACK of 192.17.252.41 from 192.17.2.20
+Sep 16 11:36:16 skulkrn2 dhclient: bound to 192.17.252.41 -- renewal in 421 seconds.
+Sep 16 11:36:21 skulkrn2 kernel: [ 3270.214727] ideapad_laptop: Unknown event: 1
+Sep 16 11:36:44 skulkrn2 kernel: [ 3292.962974] ideapad_laptop: Unknown event: 1
+Sep 16 11:37:07 skulkrn2 kernel: [ 3315.717581] ideapad_laptop: Unknown event: 1
+Sep 16 11:37:30 skulkrn2 kernel: [ 3338.461423] ideapad_laptop: Unknown event: 1
+Sep 16 11:37:52 skulkrn2 kernel: [ 3361.207375] ideapad_laptop: Unknown event: 1
+Sep 16 11:38:15 skulkrn2 kernel: [ 3383.946681] ideapad_laptop: Unknown event: 1
+Sep 16 11:38:38 skulkrn2 kernel: [ 3406.703116] ideapad_laptop: Unknown event: 1
+Sep 16 11:39:01 skulkrn2 kernel: [ 3429.455795] ideapad_laptop: Unknown event: 1
+Sep 16 11:39:23 skulkrn2 kernel: [ 3452.216047] ideapad_laptop: Unknown event: 1
+Sep 16 11:39:46 skulkrn2 kernel: [ 3474.957682] ideapad_laptop: Unknown event: 1
+Sep 16 11:40:09 skulkrn2 kernel: [ 3497.698600] ideapad_laptop: Unknown event: 1
+Sep 16 11:40:32 skulkrn2 kernel: [ 3520.442209] ideapad_laptop: Unknown event: 1
+Sep 16 11:40:55 skulkrn2 kernel: [ 3543.191078] ideapad_laptop: Unknown event: 1
+Sep 16 11:41:17 skulkrn2 kernel: [ 3565.943249] ideapad_laptop: Unknown event: 1
+Sep 16 11:41:40 skulkrn2 kernel: [ 3588.682539] ideapad_laptop: Unknown event: 1
+Sep 16 11:42:03 skulkrn2 kernel: [ 3611.437354] ideapad_laptop: Unknown event: 1
+Sep 16 11:42:26 skulkrn2 kernel: [ 3634.240981] ideapad_laptop: Unknown event: 1
+Sep 16 11:42:49 skulkrn2 kernel: [ 3657.348850] ideapad_laptop: Unknown event: 1
+Sep 16 11:43:12 skulkrn2 kernel: [ 3680.192567] ideapad_laptop: Unknown event: 1
+Sep 16 11:43:17 skulkrn2 dhclient: DHCPREQUEST of 192.17.252.41 on wlan0 to 192.17.2.20 port 67
+Sep 16 11:43:17 skulkrn2 dhclient: DHCPACK of 192.17.252.41 from 192.17.2.20
+Sep 16 11:43:17 skulkrn2 dhclient: bound to 192.17.252.41 -- renewal in 441 seconds.
+Sep 16 11:43:35 skulkrn2 kernel: [ 3703.034943] ideapad_laptop: Unknown event: 1
+Sep 16 11:43:57 skulkrn2 kernel: [ 3725.859318] ideapad_laptop: Unknown event: 1
+Sep 16 11:44:20 skulkrn2 kernel: [ 3748.598422] ideapad_laptop: Unknown event: 1
+Sep 16 11:44:43 skulkrn2 kernel: [ 3771.346752] ideapad_laptop: Unknown event: 1
+Sep 16 11:45:06 skulkrn2 kernel: [ 3794.092855] ideapad_laptop: Unknown event: 1
+Sep 16 11:45:29 skulkrn2 kernel: [ 3816.837314] ideapad_laptop: Unknown event: 1
+Sep 16 11:45:51 skulkrn2 kernel: [ 3839.586215] ideapad_laptop: Unknown event: 1
+Sep 16 11:46:37 skulkrn2 kernel: [ 3885.098866] ideapad_laptop: Unknown event: 1
+Sep 16 11:47:00 skulkrn2 kernel: [ 3907.857746] ideapad_laptop: Unknown event: 1
+Sep 16 11:47:23 skulkrn2 kernel: [ 3930.616345] ideapad_laptop: Unknown event: 1
+Sep 16 11:47:45 skulkrn2 kernel: [ 3953.358032] ideapad_laptop: Unknown event: 1
+Sep 16 11:48:08 skulkrn2 kernel: [ 3976.108376] ideapad_laptop: Unknown event: 1
+Sep 16 11:48:31 skulkrn2 kernel: [ 3998.850949] ideapad_laptop: Unknown event: 1
+Sep 16 11:48:54 skulkrn2 kernel: [ 4021.752565] ideapad_laptop: Unknown event: 1
+Sep 16 11:49:17 skulkrn2 kernel: [ 4044.500647] ideapad_laptop: Unknown event: 1
+Sep 16 11:49:39 skulkrn2 kernel: [ 4067.249116] ideapad_laptop: Unknown event: 1
+Sep 16 11:50:02 skulkrn2 kernel: [ 4090.110904] ideapad_laptop: Unknown event: 1
+Sep 16 11:50:25 skulkrn2 kernel: [ 4112.907881] ideapad_laptop: Unknown event: 1
+Sep 16 11:50:38 skulkrn2 dhclient: DHCPREQUEST of 192.17.252.41 on wlan0 to 192.17.2.20 port 67
+Sep 16 11:50:38 skulkrn2 dhclient: DHCPACK of 192.17.252.41 from 192.17.2.20
+Sep 16 11:50:38 skulkrn2 dhclient: bound to 192.17.252.41 -- renewal in 359 seconds.
+Sep 16 11:50:48 skulkrn2 kernel: [ 4135.780087] ideapad_laptop: Unknown event: 1
+Sep 16 11:51:11 skulkrn2 kernel: [ 4158.636861] ideapad_laptop: Unknown event: 1
+Sep 16 11:51:34 skulkrn2 kernel: [ 4181.389858] ideapad_laptop: Unknown event: 1
+Sep 16 11:51:56 skulkrn2 kernel: [ 4204.147049] ideapad_laptop: Unknown event: 1

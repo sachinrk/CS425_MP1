@@ -1,0 +1,75 @@
+Sep 15 08:47:26 abhishek-Lenovo-Z580 rsyslogd: [origin software="rsyslogd" swVersion="5.8.6" x-pid="982" x-info="http://www.rsyslog.com"] rsyslogd was HUPed
+Sep 15 08:47:27 abhishek-Lenovo-Z580 anacron[1822]: Job `cron.daily' terminated
+Sep 15 08:47:27 abhishek-Lenovo-Z580 anacron[1822]: Normal exit (1 job run)
+Sep 15 08:47:29 abhishek-Lenovo-Z580 kernel: [  354.297175] ideapad_laptop: Unknown event: 1
+Sep 15 08:47:52 abhishek-Lenovo-Z580 kernel: [  377.152753] ideapad_laptop: Unknown event: 1
+Sep 15 08:48:13 abhishek-Lenovo-Z580 kernel: [  397.813990] xhci_hcd 0000:00:14.0: WARN Event TRB for slot 1 ep 0 with no TDs queued?
+Sep 15 08:48:15 abhishek-Lenovo-Z580 kernel: [  399.796986] ideapad_laptop: Unknown event: 1
+Sep 15 08:48:38 abhishek-Lenovo-Z580 kernel: [  422.470208] ideapad_laptop: Unknown event: 1
+Sep 15 08:49:00 abhishek-Lenovo-Z580 kernel: [  445.100995] ideapad_laptop: Unknown event: 1
+Sep 15 08:49:23 abhishek-Lenovo-Z580 kernel: [  467.624610] ideapad_laptop: Unknown event: 1
+Sep 15 08:49:28 abhishek-Lenovo-Z580 AptDaemon: INFO: Quitting due to inactivity
+Sep 15 08:49:28 abhishek-Lenovo-Z580 AptDaemon: INFO: Quitting was requested
+Sep 15 08:49:45 abhishek-Lenovo-Z580 kernel: [  490.383652] ideapad_laptop: Unknown event: 1
+Sep 15 08:50:08 abhishek-Lenovo-Z580 kernel: [  512.995015] ideapad_laptop: Unknown event: 1
+Sep 15 08:50:31 abhishek-Lenovo-Z580 kernel: [  535.788395] ideapad_laptop: Unknown event: 1
+Sep 15 08:50:54 abhishek-Lenovo-Z580 kernel: [  558.415541] ideapad_laptop: Unknown event: 1
+Sep 15 08:51:16 abhishek-Lenovo-Z580 kernel: [  580.951908] ideapad_laptop: Unknown event: 1
+Sep 15 08:51:39 abhishek-Lenovo-Z580 kernel: [  603.435154] ideapad_laptop: Unknown event: 1
+Sep 15 08:52:01 abhishek-Lenovo-Z580 kernel: [  625.917615] ideapad_laptop: Unknown event: 1
+Sep 15 08:52:24 abhishek-Lenovo-Z580 kernel: [  648.477235] ideapad_laptop: Unknown event: 1
+Sep 15 08:52:46 abhishek-Lenovo-Z580 kernel: [  671.057028] ideapad_laptop: Unknown event: 1
+Sep 15 08:53:09 abhishek-Lenovo-Z580 kernel: [  693.541315] ideapad_laptop: Unknown event: 1
+Sep 15 08:53:31 abhishek-Lenovo-Z580 kernel: [  716.029108] ideapad_laptop: Unknown event: 1
+Sep 15 08:53:54 abhishek-Lenovo-Z580 kernel: [  738.520568] ideapad_laptop: Unknown event: 1
+Sep 15 08:54:16 abhishek-Lenovo-Z580 kernel: [  761.005807] ideapad_laptop: Unknown event: 1
+Sep 15 08:54:39 abhishek-Lenovo-Z580 kernel: [  783.580103] ideapad_laptop: Unknown event: 1
+Sep 15 08:55:02 abhishek-Lenovo-Z580 kernel: [  806.125188] ideapad_laptop: Unknown event: 1
+Sep 15 08:55:24 abhishek-Lenovo-Z580 kernel: [  828.772809] ideapad_laptop: Unknown event: 1
+Sep 15 08:55:47 abhishek-Lenovo-Z580 kernel: [  851.300664] ideapad_laptop: Unknown event: 1
+Sep 15 08:56:09 abhishek-Lenovo-Z580 kernel: [  873.920263] ideapad_laptop: Unknown event: 1
+Sep 15 08:56:32 abhishek-Lenovo-Z580 kernel: [  896.421087] ideapad_laptop: Unknown event: 1
+Sep 15 08:56:55 abhishek-Lenovo-Z580 kernel: [  919.107973] ideapad_laptop: Unknown event: 1
+Sep 15 08:57:17 abhishek-Lenovo-Z580 kernel: [  941.780582] ideapad_laptop: Unknown event: 1
+Sep 15 08:57:40 abhishek-Lenovo-Z580 kernel: [  964.357178] ideapad_laptop: Unknown event: 1
+Sep 15 08:58:03 abhishek-Lenovo-Z580 kernel: [  987.020665] ideapad_laptop: Unknown event: 1
+Sep 15 08:58:26 abhishek-Lenovo-Z580 kernel: [ 1009.927434] ideapad_laptop: Unknown event: 1
+Sep 15 08:58:48 abhishek-Lenovo-Z580 kernel: [ 1032.610484] ideapad_laptop: Unknown event: 1
+Sep 15 08:59:11 abhishek-Lenovo-Z580 kernel: [ 1055.137270] ideapad_laptop: Unknown event: 1
+Sep 15 08:59:34 abhishek-Lenovo-Z580 kernel: [ 1077.784890] ideapad_laptop: Unknown event: 1
+Sep 15 08:59:56 abhishek-Lenovo-Z580 kernel: [ 1100.390265] ideapad_laptop: Unknown event: 1
+Sep 15 09:00:19 abhishek-Lenovo-Z580 kernel: [ 1122.893773] ideapad_laptop: Unknown event: 1
+Sep 15 09:00:41 abhishek-Lenovo-Z580 kernel: [ 1145.426220] ideapad_laptop: Unknown event: 1
+Sep 15 09:01:04 abhishek-Lenovo-Z580 kernel: [ 1167.926274] ideapad_laptop: Unknown event: 1
+Sep 15 09:01:26 abhishek-Lenovo-Z580 kernel: [ 1190.413555] ideapad_laptop: Unknown event: 1
+Sep 15 09:01:49 abhishek-Lenovo-Z580 kernel: [ 1213.028722] ideapad_laptop: Unknown event: 1
+Sep 15 09:02:12 abhishek-Lenovo-Z580 kernel: [ 1235.673399] ideapad_laptop: Unknown event: 1
+Sep 15 09:02:34 abhishek-Lenovo-Z580 kernel: [ 1258.170904] ideapad_laptop: Unknown event: 1
+Sep 15 09:02:57 abhishek-Lenovo-Z580 kernel: [ 1280.660922] ideapad_laptop: Unknown event: 1
+Sep 15 09:03:19 abhishek-Lenovo-Z580 kernel: [ 1303.150728] ideapad_laptop: Unknown event: 1
+Sep 15 09:03:42 abhishek-Lenovo-Z580 kernel: [ 1325.701702] ideapad_laptop: Unknown event: 1
+Sep 15 09:04:04 abhishek-Lenovo-Z580 kernel: [ 1348.265191] ideapad_laptop: Unknown event: 1
+Sep 15 09:04:27 abhishek-Lenovo-Z580 kernel: [ 1370.741412] ideapad_laptop: Unknown event: 1
+Sep 15 09:04:49 abhishek-Lenovo-Z580 kernel: [ 1393.243278] ideapad_laptop: Unknown event: 1
+Sep 15 09:05:12 abhishek-Lenovo-Z580 kernel: [ 1415.714800] ideapad_laptop: Unknown event: 1
+Sep 15 09:05:34 abhishek-Lenovo-Z580 kernel: [ 1438.189115] ideapad_laptop: Unknown event: 1
+Sep 15 09:05:57 abhishek-Lenovo-Z580 kernel: [ 1460.736558] ideapad_laptop: Unknown event: 1
+Sep 15 09:06:20 abhishek-Lenovo-Z580 kernel: [ 1483.286749] ideapad_laptop: Unknown event: 1
+Sep 15 09:06:42 abhishek-Lenovo-Z580 kernel: [ 1506.034934] ideapad_laptop: Unknown event: 1
+Sep 15 09:07:05 abhishek-Lenovo-Z580 kernel: [ 1528.716880] ideapad_laptop: Unknown event: 1
+Sep 15 09:07:28 abhishek-Lenovo-Z580 kernel: [ 1551.368321] ideapad_laptop: Unknown event: 1
+Sep 15 09:07:50 abhishek-Lenovo-Z580 kernel: [ 1573.847156] ideapad_laptop: Unknown event: 1
+Sep 15 09:08:13 abhishek-Lenovo-Z580 kernel: [ 1596.462949] ideapad_laptop: Unknown event: 1
+Sep 15 09:08:36 abhishek-Lenovo-Z580 kernel: [ 1619.034556] ideapad_laptop: Unknown event: 1
+Sep 15 09:08:58 abhishek-Lenovo-Z580 kernel: [ 1641.598832] ideapad_laptop: Unknown event: 1
+Sep 15 09:09:21 abhishek-Lenovo-Z580 kernel: [ 1664.265784] ideapad_laptop: Unknown event: 1
+Sep 15 09:09:44 abhishek-Lenovo-Z580 kernel: [ 1686.913568] ideapad_laptop: Unknown event: 1
+Sep 15 09:10:06 abhishek-Lenovo-Z580 kernel: [ 1709.462632] ideapad_laptop: Unknown event: 1
+Sep 15 09:10:29 abhishek-Lenovo-Z580 kernel: [ 1731.964366] ideapad_laptop: Unknown event: 1
+Sep 15 09:10:51 abhishek-Lenovo-Z580 kernel: [ 1754.527970] ideapad_laptop: Unknown event: 1
+Sep 15 09:11:14 abhishek-Lenovo-Z580 kernel: [ 1777.636557] ideapad_laptop: Unknown event: 1
+Sep 15 09:11:38 abhishek-Lenovo-Z580 kernel: [ 1800.752024] ideapad_laptop: Unknown event: 1
+Sep 15 09:12:01 abhishek-Lenovo-Z580 kernel: [ 1823.835426] ideapad_laptop: Unknown event: 1
+Sep 15 09:12:24 abhishek-Lenovo-Z580 kernel: [ 1847.000923] ideapad_laptop: Unknown event: 1
+Sep 15 09:12:47 abhishek-Lenovo-Z580 kernel: [ 1869.961783] ideapad_laptop: Unknown event: 1
+Sep 15 09:13:10 abhishek-Lenovo-Z580 kernel: [ 1892.697132] ideapad_lap

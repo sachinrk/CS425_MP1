@@ -11,11 +11,13 @@ char command[1000];
 
 /* ********************** IP ADDRESS ARRAY (hardcoded) **************************  
 The IP addresses of the remote machines are hardcoded here. The IP address of he
+g
+
 machine where the log query application is runing also needs to be added in the array
 if results are  grep needs to be executed on those machines as well/
 * ******************************************************************************/
 
-char serverIP[4][16] = { "192.17.251.144", "192.168.2.45", "192.168.2.5", "192.168.2.8"};
+char serverIP[4][16] = { "192.168.2.2", "192.168.2.3", "192.168.2.7", "192.168.2.10"};
 
 void displayFile(char *fileName);
 
@@ -127,7 +129,7 @@ int main(int argc, char *argv[]) {
 	for(i = 0; i < NO_OF_CONNECTIONS ; i++) {
 		tData[i].threadID = i + 1;
 		tData[i].ip = serverIP[i];
-                sprintf(tData[i].command, "##command_output_%d.txt\n%s machine.%d.log &> command_output_%d.txt",i+1, command, i+1, i+1); 
+                sprintf(tData[i].command, "##command_output_%d.txt\n%s /tmp/machine*.log &> command_output_%d.txt",i+1, command, i+1); 
 		puts(tData[i].command);
                 (void)pthread_create(&threads[i], NULL, doDGrep, (void*)&tData[i]);
 	}

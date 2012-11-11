@@ -1,0 +1,14 @@
+19: < 192.168.2.2 > [2012-11-11  10:16:59 ] ../commons/list.c(122)  : Deleting node 192.168.2.10 from the topology 
+55: < 192.168.2.2 > [2012-11-11  10:25:34 ] ../commons/list.c(122)  : Deleting node 192.168.2.10 from the topology 
+113: < 192.168.2.2 > [2012-11-11  10:33:33 ] ../commons/list.c(122)  : Deleting node 192.168.2.10 from the topology 
+127: < 192.168.2.2 > [2012-11-11  11:14:24 ] ../commons/list.c(122)  : Deleting node 192.168.2.10 from the topology 
+220: < 192.168.2.2 > [2012-11-11  12:43:43 ] ../commons/list.c(122)  : Deleting node 192.168.2.10 from the topology 
+259: < 192.168.2.2 > [2012-11-11  13:00:29 ] ../commons/list.c(122)  : Deleting node 192.168.2.7 from the topology 
+276: < 192.168.2.2 > [2012-11-11  13:05:38 ] ../commons/list.c(122)  : Deleting node 192.168.2.10 from the topology 
+277: < 192.168.2.2 > [2012-11-11  13:05:48 ] ../commons/list.c(122)  : Deleting node 192.168.2.7 from the topology 
+330: < 192.168.2.2 > [2012-11-11  13:20:30 ] ../commons/list.c(122)  : Deleting node 192.168.2.7 from the topology 
+335: < 192.168.2.2 > [2012-11-11  13:20:40 ] ../commons/list.c(122)  : Deleting node 192.168.2.10 from the topology 
+438: < 192.168.2.2 > [2012-11-11  13:29:28 ] ../failure_detector/heartbeat_receive.c(111)  : No heartbeat received from 192.168.2.3. Deleting node
+439: < 192.168.2.2 > [2012-11-11  13:29:28 ] ../commons/list.c(122)  : Deleting node 192.168.2.3 from the topology 
+444: < 192.168.2.2 > [2012-11-11  13:29:38 ] ../failure_detector/heartbeat_receive.c(111)  : No heartbeat received from 192.168.2.7. Deleting node
+445: < 192.168.2.2 > [2012-11-11  13:29:38 ] ../commons/list.c(122)  : Deleting node 192.168.2.7 from the topology 
